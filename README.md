@@ -41,3 +41,4 @@ The main goal of this project is to leverage LLMs and RAG techniques to provide 
 
 The project's success is measured based on the accuracy, relevance, and contextual understanding of the generated answers compared to the ground truth answers from the NEET 2022 paper. Detailed evaluation metrics and results are provided in the project documentation.
 
+![Metric scores](results/table2.png)
