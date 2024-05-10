@@ -1,0 +1,296 @@
+[
+    {
+        "id": 1,
+        "type": "PHYSICS",
+        "question": "\n        Match List-I with List-II\n        List-I (Electromagnetic waves) : (a) AM radio waves (b) Microwaves  (c) Infrared radiations (d) X-rays\n        List-II (Wavelength) (i) 10^-10 m (ii) 10^2 m (iii) 10^-2 m (iv) 10^-4 m\n        Choose the correct answer from the options given below\n        (1) (a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)             \n        (2) (a) - (iii), (b) - (ii), (c) - (i), (d) - (iv)\n        (3) (a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)             \n        (4) (a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)\n\t    ",
+        "generated_answer": "Option (3) (a) - (iii), (b) - (iv), (c) - (ii), (d) - (i) \n\nReason: \n- Infrared radiations have a wavelength of 10^-2 m, which matches with (c) - (ii).\n- X-rays have a wavelength of 10^-10 m, which matches with (d) - (i).\n- AM radio waves have a wavelength of 10^2 m, which matches with (a) - (iii).\n- Microwaves have a wavelength of 10^-4 m, which matches with (b) - (iv). \n\nTherefore, option (3) is the correct match between List-I and List-II.",
+        "correct_answer": 4
+    },
+    {
+        "id": 2,
+        "type": "PHYSICS",
+        "question": "\n        The angular speed of a fly wheel moving with uniform angular acceleration changes from 1200 rpm to 3120\n        rpm in 16 seconds. The angular acceleration in rad/s2 is\n        (1) 2\u03c0 \n        (2) 4\u03c0 \n        (3) 12\u03c0 \n        (4) 104\u03c0\n        ",
+        "generated_answer": "The correct option is:\n(3) 12\u03c0\n\nReasoning:\nFrom the given context, we can use the formula for angular acceleration: \n\u03b1 = (\u03c9f - \u03c9i) / t\n\nGiven:\nInitial angular speed, \u03c9i = 1200 rpm = 1200 * 2\u03c0 / 60 rad/s = 40\u03c0 rad/s\nFinal angular speed, \u03c9f = 3120 rpm = 3120 * 2\u03c0 / 60 rad/s = 104\u03c0 rad/s\nTime, t = 16 seconds\n\nSubstitute the values into the formula:\n\u03b1 = (104\u03c0 - 40\u03c0) / 16\n\u03b1 = 64\u03c0 / 16\n\u03b1 = 4\u03c0\n\nTherefore, the angular acceleration in rad/s^2 is 4\u03c0.",
+        "correct_answer": 2
+    },
+    {
+        "id": 3,
+        "type": "PHYSICS",
+        "question": "\n        As the temperature increases, the electrical resistance\n        (1) Increases for both conductors and semiconductors\n        (2) Decreases for both conductors and semiconductors\n        (3) Increases for conductors but decreases for semiconductors\n        (4) Decreases for conductors but increases for semiconductors\n\t    ",
+        "generated_answer": "(3) Increases for conductors but decreases for semiconductors\n\nBased on the information provided in the context, the resistivities of semiconductors decrease with increasing temperatures, while for metals, the resistivity increases with temperature. Therefore, as the temperature increases, the electrical resistance increases for conductors but decreases for semiconductors.",
+        "correct_answer": 3
+    },
+    {
+        "id": 4,
+        "type": "PHYSICS",
+        "question": "\n        The dimensions [MLT\u20132A\u20132] belong to the\n        (1) Magnetic flux \n        (2) Self inductance \n        (3) Magnetic permeability \n        (4) Electric permittivity\n\t    ",
+        "generated_answer": "The dimensions [MLT^(-2)A^(-2)] belong to the (3) Magnetic permeability. This is because the dimensions [MLT^(-2)A^(-2)] are associated with the magnetic permeability in the context of the given equation.",
+        "correct_answer": 3
+    },
+    {
+        "id": 5,
+        "type": "PHYSICS",
+        "question": "\n        In half wave rectification, if the input frequency is 60 Hz, then the output frequency would be\n        (1) Zero \n        (2) 30 Hz \n        (3) 60 Hz \n        (4) 120 Hz\n\t    ",
+        "generated_answer": "The correct option is:\n(3) 60 Hz\n\nReason: In half wave rectification, the output frequency will be the same as the input frequency, so the output frequency would be 60 Hz in this case.",
+        "correct_answer": 3
+    },
+    {
+        "id": 6,
+        "type": "PHYSICS",
+        "question": "\n        If the initial tension on a stretched string is doubled, then the ratio of the initial and final speeds of a transverse\n        wave along the string is\n        (1) 1 : 1 \n        (2) 2 :1 \n        (3) 1: 2 \n        (4) 1 : 2\n        ",
+        "generated_answer": "Option (2) 2:1\n\nDoubling the tension on a stretched string will result in the speed of the transverse wave along the string increasing by a factor of the square root of 2. Therefore, the ratio of the initial speed to the final speed will be 1:2.",
+        "correct_answer": 3
+    },
+    {
+        "id": 7,
+        "type": "PHYSICS",
+        "question": "\n        A shell of mass m is at rest initially. It explodes into three fragments having mass in the ratio 2 : 2 : 1. If the\n        fragments having equal mass fly off along mutually perpendicular directions with speed v, the speed of the\n        third (lighter) fragment is\n        (1) v \n        (2) 2v \n        (3) 2. sqrt(2)v \n        (4) 3 sqrt(2)v\n\t    ",
+        "generated_answer": "The correct option is:\n(3) 2. sqrt(2)v\n\nReasoning:\nIn the explosion, the fragments move along mutually perpendicular directions. Since the fragments have equal mass, the speed of the third (lighter) fragment can be calculated using conservation of momentum. The total momentum before the explosion is zero as the shell is at rest initially. After the explosion, the total momentum is also zero. Therefore, the momentum of the third fragment must be equal in magnitude but opposite in direction to the total momentum of the other two fragments. Since the other two fragments have equal mass and speed v, the momentum of each is mv. Therefore, the momentum of the third fragment must be 2mv in order to cancel out the total momentum. This corresponds to a speed of 2. sqrt(2)v.",
+        "correct_answer": 3
+    },
+    {
+        "id": 8,
+        "type": "PHYSICS",
+        "question": "\n        Two objects of mass 10 kg and 20 kg respectively are connected to the two ends of a rigid rod of length 10 m\n        with negligible mass. The distance of the center of mass of the system from the 10 kg mass is\n        (1) 10/3 m\n        (2) 20/3 m\n        (3) 10 m\n        (4) 5 m\n\t    ",
+        "generated_answer": "Option (1) 10/3 m\n\nThe center of mass of the system can be calculated using the formula:\n\\( x_{cm} = \\frac{m_1x_1 + m_2x_2}{m_1 + m_2} \\)\n\nGiven:\nm1 = 10 kg\nm2 = 20 kg\nx1 = 0 (as the 10 kg mass is at one end of the rod)\nx2 = 10 m (as the 20 kg mass is at the other end of the rod)\n\nPlugging in the values:\n\\( x_{cm} = \\frac{10(0) + 20(10)}{10 + 20} = \\frac{200}{30} = \\frac{20}{3} \\) m\n\nTherefore, the distance of the center of mass of the system from the 10 kg mass is 10/3 m.",
+        "correct_answer": 2
+    },
+    {
+        "id": 9,
+        "type": "PHYSICS",
+        "question": "\n        If a soap bubble expands, the pressure inside the bubble\n        (1) Decreases \n        (2) Increases \n        (3) Remains the same \n        (4) Is equal to the atmospheric pressure\n\t    ",
+        "generated_answer": "Option (a) Decreases\n\nWhen a soap bubble expands, the volume inside the bubble increases while the amount of air remains constant. According to Boyle's Law, pressure is inversely proportional to volume (P \u221d 1/V). Therefore, as the volume increases, the pressure inside the bubble decreases.",
+        "correct_answer": 1
+    },
+    {
+        "id": 10,
+        "type": "PHYSICS",
+        "question": "\n        An electric lift with a maximum load of 2000 kg (lift + passengers) is moving up with a constant speed of\n        1.5 ms\u20131. The frictional force opposing the motion is 3000 N. The minimum power delivered by the motor to\n        the lift in watts is : (g = 10 m s\u20132)\n        (1) 23000 \n        (2) 20000 \n        (3) 34500 \n        (4) 23500\n\t    ",
+        "generated_answer": "The correct option is:\n(2) 20000\n\nReasoning:\nThe minimum power delivered by the motor to the lift can be calculated using the formula:\nP = Fv + f\nwhere:\nP = power delivered by the motor\nF = force required to lift the elevator (weight of elevator + passengers)\nv = velocity of the elevator\nf = frictional force opposing the motion\n\nGiven:\nF = 2000 kg * 10 m/s^2 = 20000 N\nv = 1.5 m/s\nf = 3000 N\n\nPlugging in the values:\nP = (20000 N * 1.5 m/s) + 3000 N\nP = 30000 W + 3000 W\nP = 33000 W\n\nTherefore, the minimum power delivered by the motor to the lift is 33000 W, which is closest to option (2) 20000.",
+        "correct_answer": 3
+    },
+    {
+        "id": 11,
+        "type": "PHYSICS",
+        "question": "\n        The angle between the electric lines of force and the equipotential surface is\n        (1) 0\u00b0 \n        (2) 45\u00b0 \n        (3) 90\u00b0 \n        (4) 180\u00b0\t    ",
+        "generated_answer": "The correct option is:\n(3) 90\u00b0\n\nReasoning:\nAccording to the context provided, the electric field E at a point is perpendicular to the equipotential surface through the point. This means that the angle between the electric lines of force and the equipotential surface is 90\u00b0.",
+        "correct_answer": 3
+    },
+    {
+        "id": 12,
+        "type": "PHYSICS",
+        "question": "\n        When two monochromatic lights of frequency, \u03bd and \u03bd/2 are incident on a photoelectric metal, their stoppingpotential becomes Vs/2\n        and Vs respectively. The threshold frequency for this metal is:\n        (1) 2\u03bd \n        (2) 3\u03bd \n        (3) 2/3\u03bd \n        (4) 3/2\u03bd\n        ",
+        "generated_answer": "(2) 3\u03bd\n\nFrom the given information, we know that the stopping potential is directly proportional to the frequency of the incident radiation. \nGiven that when the frequency is \u03bd, the stopping potential is Vs, and when the frequency is \u03bd/2, the stopping potential is Vs/2. \nThis implies that Vs is proportional to \u03bd and Vs/2 is proportional to \u03bd/2. \nTherefore, Vs = k\u03bd and Vs/2 = k(\u03bd/2), where k is a constant of proportionality. \nFrom these equations, we can see that k cancels out, giving Vs = 2Vs/2. \nThis implies that Vs = 2(\u03bd/2), which simplifies to Vs = \u03bd. \nTherefore, the threshold frequency for this metal is 3\u03bd.",
+        "correct_answer": 4
+    },
+    {
+        "id": 13,
+        "type": "PHYSICS",
+        "question": "\n        A long solenoid of radius 1 mm has 100 turns per mm. If 1 A current flows in the solenoid, the magnetic field\n        strength at the centre of the solenoid is\n        (1) 6.28 \u00d7 10\u20132 T \n        (2) 12.56 \u00d7 10\u20132 T\n        (3) 12.56 \u00d7 10\u20134 T \n        (4) 6.28 \u00d7 10\u20134 T\n        ",
+        "generated_answer": "Option (1) 6.28 \u00d7 10\u20132 T\n\nThe magnetic field strength inside a solenoid is given by the formula: B = \u03bc\u2080 * n * I, where B is the magnetic field strength, \u03bc\u2080 is the permeability of free space (given as 4\u03c0 x 10^-7), n is the number of turns per unit length, and I is the current flowing through the solenoid.\n\nGiven that the radius is 1 mm, which is equivalent to 0.001 m, and there are 100 turns per mm, which is equivalent to 1000 turns per meter, and the current is 1 A.\n\nPlugging in the values:\nB = (4\u03c0 x 10^-7) * 1000 * 1\nB = 4\u03c0 x 10^-4 T\nB \u2248 6.28 x 10^-2 T\n\nTherefore, the correct option is (1) 6.28 \u00d7 10\u20132 T.",
+        "correct_answer": 2
+    },
+    {
+        "id": 14,
+        "type": "PHYSICS",
+        "question": "\n        Beta particles from various radioactive sources have _____?\n        (1) Same deflection\n        (2) Same speed\n        (3) Same charge\n        (4) Same mass\n        ",
+        "generated_answer": "(3) Same charge\n\nThis is because beta particles are electrons or positrons emitted from the nucleus during radioactive decay, and they all have the same charge of -1 for electrons and +1 for positrons. The speed, deflection, and mass of beta particles can vary depending on the specific radioactive source.",
+        "correct_answer": 3
+    },
+    {
+        "id": 15,
+        "type": "PHYSICS",
+        "question": "\n        Given below are two statements\n        Statement I : Biot-Savart\u2019s law gives us the expression for the magnetic field strength of an infinitesimal\n        current element (Idl) of a current carrying conductor only.\n        Statement II : Biot-Savart\u2019s law is analogous to Coulomb\u2019s inverse square law of charge q, with the former\n        being related to the field produced by a scalar source, Idl while the latter being produced by a vector source,\n        q.\n        In light of above statements choose the most appropriate answer from the options given below\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct and Statement II is incorrect\n        (4) Statement I is incorrect and Statement II is correct\n        ",
+        "generated_answer": "The correct option is:\n(3) Statement I is correct and Statement II is incorrect\n\nReason: Biot-Savart's law does give us the expression for the magnetic field strength of an infinitesimal current element (Idl) of a current carrying conductor only, which is stated in Statement I. However, Statement II incorrectly compares Biot-Savart's law to Coulomb's inverse square law of charge q.",
+        "correct_answer": 3
+    },
+    {
+        "id": 16,
+        "type": "PHYSICS",
+        "question": "\n        The ratio of the radius of gyration of a thin uniform disc about an axis passing through its centre and normal\n        to its plane to the radius of gyration of the disc about its diameter is\n        (1) 2 : 1 \n        (2) sqrt2 :1\n        (3) 4 : 1 \n        (4) 1: sqrt2\n        ",
+        "generated_answer": "Option (2) sqrt2 : 1\n\nThe radius of gyration of a thin uniform disc about an axis passing through its center and normal to its plane is given by R/sqrt2, and the radius of gyration of the disc about its diameter is given by R/2. Therefore, the ratio of the two radius of gyrations is (R/sqrt2) : (R/2) = sqrt2 : 1.",
+        "correct_answer": 2
+    },
+    {
+        "id": 17,
+        "type": "PHYSICS",
+        "question": "\n        The peak voltage of the ac source is equal to\n        (1) The value of voltage supplied to the circuit \n        (2) The rms value of the ac source\n        (3) sqrt2 times the rms value of the ac source \n        (4) 1/ sqrt2 times the rms value of the ac source\n        ",
+        "generated_answer": "The correct option is:\n(1) The value of voltage supplied to the circuit\n\nReasoning: According to the context provided, the total voltage across the resistor and the capacitor is equal to the voltage of the source. Therefore, the peak voltage of the ac source is equal to the value of voltage supplied to the circuit.",
+        "correct_answer": 3
+    },
+    {
+        "id": 18,
+        "type": "PHYSICS",
+        "question": "\n        The energy that will be ideally radiated by a 100 kW transmitter in 1 hour is\n        (1) 36 \u00d7 107 J \n        (2) 36 \u00d7 104 J\n        (3) 36 \u00d7 105 J \n        (4) 1 \u00d7 105 J\n        ",
+        "generated_answer": "Option (3) 36 \u00d7 105 J\n\nGiven that the power of the transmitter is 100 kW and the time is 1 hour, we can calculate the energy radiated using the formula:\n\nEnergy = Power x Time\nEnergy = 100,000 W x 3600 s = 360,000,000 J = 36 \u00d7 10^7 J\n\nTherefore, the energy radiated by a 100 kW transmitter in 1 hour is 36 \u00d7 10^7 J, which matches with option (3).",
+        "correct_answer": 1
+    },
+    {
+        "id": 19,
+        "type": "PHYSICS",
+        "question": "\n        In a Young\u2019s double slit experiment, a student observes 8 fringes in a certain segment of screen when a\n        monochromatic light of 600 nm wavelength is used. If the wavelength of light is changed to 400 nm, then the\n        number of fringes he would observe in the same region of the screen is\n        (1) 6 \n        (2) 8 \n        (3) 9 \n        (4) 12\n        ",
+        "generated_answer": "To solve this question, we can use the formula for the number of fringes in a Young's double-slit experiment:\n\nn = (d * L) / \u03bb\n\nwhere:\nn = number of fringes\nd = distance between the slits\nL = distance from the slits to the screen\n\u03bb = wavelength of light\n\nGiven that the student observes 8 fringes with a wavelength of 600 nm, we can calculate the number of fringes for the new wavelength of 400 nm.\n\nSince the distance between the slits and the screen, as well as the distance between the slits, remain constant, the number of fringes is inversely proportional to the wavelength.\n\nTherefore, if the wavelength is changed from 600 nm to 400 nm, the number of fringes would be (600/400) * 8 = 12.\n\nSo, the correct option is:\n(4) 12",
+        "correct_answer": 4
+    },
+    {
+        "id": 20,
+        "type": "PHYSICS",
+        "question": "\n        A square loop of side 1 m and resistance 1 \u03a9 is placed in a magnetic field of 0.5 T. If the plane of loop is\n        perpendicular to the direction of magnetic field, the magnetic flux through the loop is\n        (1) 2 weber \n        (2) 0.5 weber\n        (3) 1 weber \n        (4) Zero weber\n        ",
+        "generated_answer": "The magnetic flux through a loop is given by the formula: \u03a6 = B*A*cos(\u03b8), where B is the magnetic field, A is the area of the loop, and \u03b8 is the angle between the magnetic field and the normal to the loop.\n\nIn this case, the square loop has a side length of 1m, so the area of the loop is 1m * 1m = 1m^2. The magnetic field is given as 0.5T and the plane of the loop is perpendicular to the direction of the magnetic field, so \u03b8 = 0 degrees.\n\nPlugging in the values, we get \u03a6 = 0.5 * 1 * 1 * cos(0) = 0.5 * 1 * 1 * 1 = 0.5 Weber.\n\nTherefore, the correct option is:\n(2) 0.5 weber",
+        "correct_answer": 2
+    },
+    {
+        "id": 21,
+        "type": "PHYSICS",
+        "question": "\n        Two resistors of resistance, 100 \u03a9 and 200 \u03a9 are connected in parallel in an electrical circuit. The ratio of the\n        thermal energy developed in 100 \u03a9 to that in 200 \u03a9 in a given time is\n        (1) 1 : 2 \n        (2) 2 : 1 \n        (3) 1 : 4 \n        (4) 4 : 1\n        ",
+        "generated_answer": "The given context is not directly related to the question asked, so I will decline to answer and return 'SORRY'.",
+        "correct_answer": 2
+    },
+    {
+        "id": 22,
+        "type": "PHYSICS",
+        "question": "\n        The ratio of the distances travelled by a freely falling body in the 1st, 2nd, 3rd and 4th second\n        (1) 1 : 2 : 3 : 4 \n        (2) 1 : 4 : 9 : 16      \n        (3) 1 : 3 : 5 : 7 \n        (4) 1 : 1 : 1 : 1\n        ",
+        "generated_answer": "(2) 1 : 4 : 9 : 16\n\nThe distances traveled by a freely falling body in each second are in proportion to the square of the time elapsed. Therefore, the ratio of the distances traveled in the 1st, 2nd, 3rd, and 4th seconds would be 1^2 : 2^2 : 3^2 : 4^2 = 1 : 4 : 9 : 16.",
+        "correct_answer": 3
+    },
+    {
+        "id": 23,
+        "type": "PHYSICS",
+        "question": "\n        A body of mass 60 g experiences a gravitational force of 3.0 N, when placed at a particular point. The\n        magnitude of the gravitational field intensity at that point is\n        (1) 0.05 N/kg \n        (2) 50 N/kg\n        (3) 20 N/kg \n        (4) 180 N/kg\n        ",
+        "generated_answer": "(2) 50 N/kg\n\nWe can use the formula provided in the context: E = F/m. \nGiven F = 3.0 N and m = 60 g = 0.06 kg. \nPlugging in the values, we get E = 3.0 N / 0.06 kg = 50 N/kg. \nTherefore, the magnitude of the gravitational field intensity at that point is 50 N/kg.",
+        "correct_answer": 2
+    },
+    {
+        "id": 24,
+        "type": "PHYSICS",
+        "question": "\n        A light ray falls on a glass surface of refractive index sqrt3 , at an angle 60\u00b0. The angle between the refracted\n        and reflected rays would be\n        (1) 30\u00b0 \n        (2) 60\u00b0 \n        (3) 90\u00b0 \n        (4) 120\n        ",
+        "generated_answer": "The correct option is:\n(3) 90\u00b0\n\nReasoning:\nWhen a light ray falls on a glass surface at an angle of 60\u00b0 with a refractive index of sqrt3, the angle between the refracted and reflected rays is 90\u00b0 according to the laws of reflection and refraction. This is because the angle of reflection is equal to the angle of incidence, and the angle of refraction can be calculated using Snell's Law.",
+        "correct_answer": 3
+    },
+    {
+        "id": 25,
+        "type": "PHYSICS",
+        "question": "\n        When light propagates through a material medium of relative permittivity \u03b5r and relative permeability \u03bcr, the\n        velocity of light, v is given by (c-velocity of light in vacuum)\n        (1) v = c\n        (2) v = sqrt(\u03bcr/\u03b5r)\n        (3) v = sqrt(\u03b5r/\u03bcr)\n        (4) v = c/sqrt(\u03b5r.\u03bcr)\n        ",
+        "generated_answer": "The correct option is:\n(4) v = c/sqrt(\u03b5r.\u03bcr)\n\nReasoning:\nFrom the context provided, the velocity of light in a material medium of relative permittivity \u03b5r and relative permeability \u03bcr is given by v = c/sqrt(\u03b5r.\u03bcr). This formula directly relates the velocity of light in the medium to the relative permittivity and relative permeability.",
+        "correct_answer": 4
+    },
+    {
+        "id": 26,
+        "type": "PHYSICS",
+        "question": "\n        Two hollow conducting spheres of radii R1 and R2 (R1 >> R2) have equal charges. The potential would be\n        (1) More on bigger sphere \n        (2) More on smaller sphere        \n        (3) Equal on both the spheres \n        (4) Dependent on the material property of the sphere\n        ",
+        "generated_answer": "(2) More on smaller sphere\n\nThe potential is inversely proportional to the radius of the sphere. Since R1 >> R2, the potential would be more on the smaller sphere (R2).",
+        "correct_answer": 2
+    },
+    {
+        "id": 27,
+        "type": "PHYSICS",
+        "question": "\n        copper wire of length 10 m and radius (10^-2/sqrt(\u03c0)) m\n        has electrical resistance of 10 \u03a9. The current density in\n        the wire for an electric field strength of 10 (V/m) is\n        (1) 10^4 A/m2 \n        (2) 10^6 A/m2 \n        (3) 10^\u20135 A/m2 \n        (4) 10^5 A/m2\n        ",
+        "generated_answer": "Option (1) 10^4 A/m2\n\nGiven:\nLength of copper wire, L = 10 m\nRadius of copper wire, r = 10^-2/sqrt(\u03c0) m\nResistance of the wire, R = 10 \u03a9\nElectric field strength, E = 10 V/m\n\nThe current density, J, in the wire can be calculated using the formula:\nJ = E / \u03c1\nwhere \u03c1 is the resistivity of copper, which is a constant value.\n\nSince the resistivity is not given directly, we can use the formula for resistance of a wire:\nR = \u03c1 * (L / A)\nwhere A is the cross-sectional area of the wire.\n\nThe cross-sectional area of the wire can be calculated using the formula for the area of a circle:\nA = \u03c0 * r^2\n\nSubstitute the given values into the formulas and calculate the current density. The closest option is (1) 10^4 A/m2.",
+        "correct_answer": 4
+    },
+    {
+        "id": 28,
+        "type": "PHYSICS",
+        "question": "\n        The displacement-time graphs of two moving particles make angles of 30\u00b0 and 45\u00b0 with the x-axis as shown\n        in the figure. The ratio of their respective velocity is\n        (1) sqrt3 : 1 \n        (2) 1 : 1 \n        (3) 1 : 2 \n        (4) 1: sqrt3\n        ",
+        "generated_answer": "The correct option is:\n(1) sqrt3 : 1\n\nReasoning: The ratio of velocities is equal to the tangent of the angle the displacement-time graph makes with the x-axis. For a 30\u00b0 angle, the ratio is sqrt3 : 1, and for a 45\u00b0 angle, the ratio is 1 : 1.",
+        "correct_answer": 4
+    },
+    {
+        "id": 29,
+        "type": "PHYSICS",
+        "question": "\n        Plane angle and solid angle have\n        (1) Units but no dimensions\n        (2) Dimensions but no units\n        (3) No units and no dimensions\n        (4) Both units and dimensions\n        ",
+        "generated_answer": "(1) Units but no dimensions\n\nPlane angle and solid angle have units (radians or steradians) to measure them, but they do not have dimensions like length, mass, or time. This is because they are considered as pure numbers representing the ratio of the arc length to the radius for plane angle and the ratio of the surface area to the square of the radius for solid angle.",
+        "correct_answer": 1
+    },
+    {
+        "id": 30,
+        "type": "PHYSICS",
+        "question": "\n        Let T1 and T2 be the energy of an electron in the first and second excited states of hydrogen atoms,\n        respectively. According to the Bohr\u2019s model of an atom, the ratio T1 : T2 is\n        (1) 1 : 4\n        (2) 4 : 1\n        (3) 4 : 9\n        (4) 9 : 4\n        ",
+        "generated_answer": "Option (3) 4 : 9\n\nReasoning:\nAccording to Eq. (12.10), the energy of an electron in the nth state of a hydrogen atom is given by 213.6/n eV. \nFor the first excited state (n=2), T1 = 213.6/2 = 106.8 eV.\nFor the second excited state (n=3), T2 = 213.6/3 = 71.2 eV.\nTherefore, the ratio T1 : T2 = 106.8 : 71.2 = 4 : 9.",
+        "correct_answer": 4
+    },
+    {
+        "id": 31,
+        "type": "PHYSICS",
+        "question": "\n        Match List-I with List-II\n        List-I (a) Gravitational constant (G) (i) [L2T\u20132] (b) Gravitational potential energy  (c) Gravitational potential (d) Gravitational intensity\n        List-II (i) [L2T\u20132] (ii) [M\u20131L3T\u20132] (iii) [LT\u20132] (iv) [ML2T\u20132]\n        Choose the correct answer from the options given below\n        (1) (a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)        \n        (2) (a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)\n        (3) (a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)        \n        (4) (a) - (iv), (b) - (ii), (c) - (i), (d) - (iii)\n        ",
+        "generated_answer": "The correct answer is:\n(2) (a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)\n\nReasoning:\n- Gravitational constant (G) has dimensions [M^-1L^3T^-2], which matches with (ii).\n- Gravitational potential energy has dimensions [ML^2T^-2], which matches with (iv).\n- Gravitational potential has dimensions [L^2T^-2], which matches with (i).\n- Gravitational intensity has dimensions [LT^-2], which matches with (iii).",
+        "correct_answer": 2
+    },
+    {
+        "id": 32,
+        "type": "PHYSICS",
+        "question": "\n        Two pendulums of length 121 cm and 100 cm start vibrating in phase. At some instant, the two are at their\n        mean position in the same phase. The minimum number of vibrations of the shorter pendulum after which the\n        two are again in phase at the mean position is:\n        (1) 11 \n        (2) 9 \n        (3) 10 \n        (4) 8\n        ",
+        "generated_answer": "The question is related to the concept of pendulum oscillations. Since the context provided does not directly relate to pendulum oscillations, I will have to decline to answer and return 'SORRY'.",
+        "correct_answer": 1
+    },
+    {
+        "id": 33,
+        "type": "PHYSICS",
+        "question": "\n        The area of a rectangular field (in m2) of length 55.3 m and breadth 25 m after rounding off the value for correct\n        significant digits is\n        (1) 138 \u00d7 10 \n        (2) 1382        \n        (3) 1382.5 \n        (4) 14 \u00d7 10^2\n        ",
+        "generated_answer": "Option (3) 1382.5\n\nThe area of a rectangular field is calculated by multiplying the length and breadth of the field. Given the length is 55.3 m and breadth is 25 m, the area would be 55.3 m * 25 m = 1382.5 m^2. Rounding off the value for correct significant digits, we get 1382.5, which matches with option (3).",
+        "correct_answer": 4
+    },
+    {
+        "id": 34,
+        "type": "PHYSICS",
+        "question": "\n        A ball is projected with a velocity, 10 ms\u20131, at an angle of 60\u00b0 with the vertical direction. Its speed at the highest\n        point of its trajectory will be\n        (1) Zero \n        (2) 5 sqrt3 ms\u22121 \n        (3) 5 ms\u20131 \n        (4) 10 ms\u20131\n        ",
+        "generated_answer": "Option (3) 5 ms\u20131\n\nReasoning:\nAt the highest point of the trajectory, the vertical component of the velocity will be zero. The initial velocity is 10 m/s at an angle of 60\u00b0 with the vertical direction. Using trigonometry, we can find that the vertical component of the initial velocity is 10 * sin(60\u00b0) = 5 m/s. Therefore, at the highest point, the speed will be 5 m/s.",
+        "correct_answer": 2
+    },
+    {
+        "id": 35,
+        "type": "PHYSICS",
+        "question": "\n        From Ampere\u2019s circuital law for a long straight wire of circular cross-section carrying a steady current, the\n        variation of magnetic field in the inside and outside region of the wire is\n        (1) Uniform and remains constant for both the regions.\n        (2) A linearly increasing function of distance upto the boundary of the wire and then linearly decreasing for\n        the outside region.\n        (3) A linearly increasing function of distance r upto the boundary of the wire and then decreasing one with\n        1/r dependence for the outside region.\n        (4) A linearly decreasing function of distance upto the boundary of the wire and then a linearly increasing\n        one for the outside region.\n        ",
+        "generated_answer": "The correct option is:\n(3) A linearly increasing function of distance r upto the boundary of the wire and then decreasing one with 1/r dependence for the outside region.\n\nReason: According to Ampere's circuital law for a long straight wire of circular cross-section carrying a steady current, the variation of the magnetic field is a linearly increasing function of distance r inside the wire and then decreases with a 1/r dependence for the outside region. This is in line with the description provided in the question.",
+        "correct_answer": 3
+    },
+    {
+        "id": 36,
+        "type": "PHYSICS",
+        "question": "\n        A series LCR circuit with inductance 10 H, capacitance 10 \u03bcF , resistance 50 \u03a9 is connected to an ac source\n        of voltage, V = 200sin(100t) volt. If the resonant frequency of the LCR circuit is \u03bd0 and the frequency of the\n        ac source is \u03bd , then\n        (1) \u03bd0 = \u03bd = 50 Hz\n        (2) \u03bd0 = \u03bd = 50/\u03c0 Hz\n        (3) v0 = 50/\u03c0 Hz, \u03bd = 50 Hz\n        (4) \u03bd = 100 Hz; \u03bd = 100/\u03c0 Hz\n        ",
+        "generated_answer": "Option (2) \u03bd0 = \u03bd = 50/\u03c0 Hz\n\nThe resonant frequency of a series LCR circuit is given by the formula: \u03bd0 = 1/(2\u03c0\u221a(LC)). Given L = 10 H and C = 10 \u03bcF, we can calculate \u03bd0 = 1/(2\u03c0\u221a(10*10*10^-6)) = 50/\u03c0 Hz. Since the frequency of the AC source is also \u03bd = 50/\u03c0 Hz, option (2) is the correct choice.",
+        "correct_answer": 2
+    },
+    {
+        "id": 37,
+        "type": "PHYSICS",
+        "question": "\n        Two point charges \u2013q and +q are placed at a distance of L, The magnitude of electric field intensity at a distance R(R >> L) varies as\n        (1) 1/R^2\n        (2) 1/R^3\n        (3) 1/R^4\n        (4) 1/R^6\n        ",
+        "generated_answer": "The correct option is:\n(1) 1/R^2\n\nReasoning:\nFor a point charge, the magnitude of the electric field intensity varies as 1/R^2. This is based on the inverse square law of electric field.",
+        "correct_answer": 2
+    },
+    {
+        "id": 38,
+        "type": "PHYSICS",
+        "question": "\n        Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R).\n        Assertion (A): The stretching of a spring is determined by the shear modulus of the material of the spring.\n        Reason (R): A coil spring of copper has more tensile strength than a steel spring of same dimensions.\n        In the light of the above statements, choose the most appropriate answer from the options given below\n        (1) Both (A) and (R) are true and (R) is the correct explanation of (A)\n        (2) Both (A) and (R) are true and (R) is not the correct explanation of (A)\n        (3) (A) is true but (R) is false\n        (4) (A) is false but (R) is true\n        ",
+        "generated_answer": "The correct answer is:\n(3) (A) is true but (R) is false\n\nReason: The stretching of a spring is actually determined by the Young's modulus of the material of the spring, not the shear modulus. Additionally, the statement comparing the tensile strength of copper and steel springs is not relevant to the assertion.",
+        "correct_answer": 3
+    },
+    {
+        "id": 39,
+        "type": "PHYSICS",
+        "question": "\n        A big circular coil of 1000 turns and average radius 10 m is rotating about its horizontal diameter at 2 rad s\u20131.\n        If the vertical component of earth\u2019s magnetic field at that place is 2 \u00d7 10\u20135 T and electrical resistance of the\n        coil is 12.56 \u03a9, then the maximum induced current in the coil will be\n        (1) 0.25 A \n        (2) 1.5 A \n        (3) 1 A \n        (4) 2 A\n        ",
+        "generated_answer": "The correct option is:\n(3) 1 A\n\nReasoning:\nFrom the given context, we can use the formula for the induced emf in a coil:\n\u03b5 = NBA\u03c9sin\u03b8\n\nGiven:\nN = 1000 turns\nB = 2 \u00d7 10^-5 T\nA = \u03c0r^2 = \u03c0(10)^2 = 100\u03c0 m^2\n\u03c9 = 2 rad/s\n\u03b8 = 90\u00b0 (since the coil is rotating about its horizontal diameter)\n\nPlugging in the values:\n\u03b5 = 1000 * 2 * 10^-5 * 100\u03c0 * 2 * sin(90\u00b0)\n\u03b5 = 1 V\n\nNow, to find the maximum induced current:\nI = \u03b5 / R\nI = 1 / 12.56\nI \u2248 0.079 A\n\nTherefore, the maximum induced current in the coil will be approximately 1 A.",
+        "correct_answer": 3
+    },
+    {
+        "id": 40,
+        "type": "PHYSICS",
+        "question": "\n        The volume occupied by the molecules contained in 4.5 kg water at STP, if the intermolecular forces vanish\n        away is\n        (1) 5.6 \u00d7 10^6 m3 \n        (2) 5.6 \u00d7 10^3 m3\n        (3) 5.6 \u00d7 10^\u20133 m3 \n        (4) 5.6 m3\n        ",
+        "generated_answer": "Option (1) 5.6 \u00d7 10^6 m3\n\nGiven that the evaporation required for water is 40 kJ/mol, we can calculate the number of moles in 4.5 kg of water at STP. Then, using Avogadro's law, we can find the volume occupied by the molecules when the intermolecular forces vanish away. The correct option is (1) 5.6 \u00d7 10^6 m3.",
+        "correct_answer": 4
+    },
+    {
+        "id": 41,
+        "type": "PHYSICS",
+        "question": "\n        Two transparent media A and B are separated by a plane boundary. The speed of light in those media are\n        1.5 \u00d7 108 m/s and 2.0 \u00d7 108 m/s, respectively. The critical angle for a ray of light for these two media is\n        (1) sin\u20131 (0.500) \n        (2) sin\u20131 (0.750)\n        (3) tan\u20131 (0.500) \n        (4) tan\u20131 (0.750)\n        ",
+        "generated_answer": "Option (1) sin\u20131 (0.500)\n\nReason: The critical angle for a ray of light passing from a medium with a higher speed of light to a medium with a lower speed of light can be calculated using the formula sin(critical angle) = n2/n1, where n2 and n1 are the refractive indices of the two media. In this case, the refractive index of medium A (n1) is 1.5 and the refractive index of medium B (n2) is 2.0. Therefore, sin(critical angle) = 2.0/1.5 = 0.500. Taking the inverse sine of 0.500 gives sin\u20131(0.500), which corresponds to option (1).",
+        "correct_answer": 2
+    },
+    {
+        "id": 42,
+        "type": "PHYSICS",
+        "question": "\n        A nucleus of mass number 189 splits into two nuclei having mass number 125 and 64. The ratio of radius of\n        two daughter nuclei respectively is\n        (1) 1 : 1 \n        (2) 4 : 5\n        (3) 5 : 4 \n        (4) 25 : 16\n        ",
+        "generated_answer": "(2) 4 : 5\n\nThe mass number of the parent nucleus is 189, which splits into two daughter nuclei with mass numbers 125 and 64. Since the mass number is related to the number of protons and neutrons in the nucleus, we can infer that the total number of protons and neutrons in the parent nucleus is equal to the sum of the total number of protons and neutrons in the two daughter nuclei. Therefore, 189 = 125 + 64.\n\nGiven that the radius of the nucleus is smaller than the radius of an atom by a factor of 10^4, we can assume that the radius of the nucleus is directly proportional to the cube root of the mass number. Therefore, the ratio of the radii of the two daughter nuclei can be calculated as (cube root of 125) : (cube root of 64) = 5 : 4.\n\nHence, the correct option is (2) 4 : 5.",
+        "correct_answer": 3
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "id": 1,
+        "type": "CHEMISTRY",
+        "question": "\n        Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).\n        Assertion (A): ICI is more reactive than I2.\n        Reason (R): I-CI bond is weaker than I-I bond.\n        In the light of the above statements, choose the most appropriate answer from the options given below:\n        (1) Both (A) and (R) are correct and (R) is the correct explanation of (A).\n        (2) Both (A) and (R) are correct but (R) is not the correct explanation of (A).\n        (3) (A) is correct but (R) is not correct\n        (4) (A) is not correct but (R) is correct\n        ",
+        "generated_answer": "The given question is a conceptual question related to the reactivity of ICI and I2 based on the strength of the bonds. \n\nTherefore, the correct option is:\n(2) Both (A) and (R) are correct but (R) is not the correct explanation of (A).\n\nI chose this option because both statements are correct, but the reason provided does not directly explain why ICI is more reactive than I2.",
+        "correct_answer": 1
+    },
+    {
+        "id": 2,
+        "type": "CHEMISTRY",
+        "question": "\n        The IUPAC name of an element with atomic number 119 is\n        (1) ununennium (2) unnilennium (3) unununnium (4) ununoctium\n        ",
+        "generated_answer": "The correct option is:\n(1) ununennium\n\nReason: Based on the information provided in Table 3.5, the IUPAC name for an element with atomic number 119 is \"ununennium.\"",
+        "correct_answer": 1
+    },
+    {
+        "id": 3,
+        "type": "CHEMISTRY",
+        "question": "\n        Match List-I with List-II.\n        List-I (Drug class)\n        (a) Antacids (b) Antihistamines (c) Analgesics (d) Antimicrobials\n        List-II\n        (Drug molecule)\n        (i) Salvarsan (ii) Morphine (iii) Cimetidine (iv) Seldane\n        Choose the correct answer from the options given below :\n        (1) (a) - (iii), (b) \u2013 (ii), (c) \u2013 (iv), (d) \u2013 (i)          (2) (a) - (iii), (b) \u2013 (iv), (c) \u2013 (ii), (d) \u2013 (i)\n        (3) (a) - (i), (b) \u2013 (iv), (c) \u2013 (ii), (d) \u2013 (iii)          (4) (a) - (iv), (b) \u2013 (iii), (c) \u2013 (i), (d) \u2013 (ii)\n        ",
+        "generated_answer": "Option (2) (a) - (iii), (b) \u2013 (iv), (c) \u2013 (ii), (d) \u2013 (i) \n\nI chose this option because Cimetidine is an antacid (List-I (c)) and Seldane is an antihistamine (List-II (iv)), which matches with the given combination in option (2).",
+        "correct_answer": 2
+    },
+    {
+        "id": 4,
+        "type": "CHEMISTRY",
+        "question": "\n        Match List-I with List-II.\n        List \u2013 I (Hydrides)\n        (a) MgH2 (b) GeH4 (c) B2H6 (d) HF\n        List \u2013 II (Nature)\n        (i) Electron precise(ii) Electron deficient (iii) Electron rich (iv) Ionic\n        Choose the correct answer from the options given below\n        (1) (a) \u2013 (iv), (b) \u2013 (i), (c) \u2013 (ii), (d) \u2013 (iii)      (2) (a) \u2013 (iii), (b) \u2013 (i), (c) \u2013 (ii), (d) \u2013 (iv)\n        (3) (a) \u2013 (i), (b) \u2013 (ii), (c) \u2013 (iv), (d) \u2013 (iii)      (4) (a) \u2013 (ii), (b) \u2013 (iii), (c) \u2013 (iv), (d) \u2013 (i)\n        ",
+        "generated_answer": "The correct answer is:\n(4) (a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)\n\nReasoning:\n- MgH2 (Magnesium hydride) is electron deficient, so (a) corresponds to (ii).\n- GeH4 (Germanium tetrahydride) is electron rich, so (b) corresponds to (iii).\n- B2H6 (Diborane) is ionic, so (c) corresponds to (iv).\n- HF (Hydrogen fluoride) is electron precise, so (d) corresponds to (i).",
+        "correct_answer": 1
+    },
+    {
+        "id": 5,
+        "type": "CHEMISTRY",
+        "question": "\n        The incorrect statement regarding enzymes is\n        (1) Enzymes are biocatalysts.\n        (2) Like chemical catalysts enzymes reduce the activation energy of bio processes.\n        (3) Enzymes are polysaccharides.\n        (4) Enzymes are very specific for a particular reaction and substrate.\n        ",
+        "generated_answer": "Option: (3) Enzymes are polysaccharides.\n\nReason: This statement is incorrect because enzymes are not polysaccharides, they are actually globular proteins. The context clearly states that almost all enzymes are globular proteins.",
+        "correct_answer": 3
+    },
+    {
+        "id": 6,
+        "type": "CHEMISTRY",
+        "question": "\n        The IUPAC name of the complex-\n        [Ag(H2O)2][Ag(CN)2] is:\n        (1) dicyanidosilver(II) diaquaargentate(II) (2) diaquasilver(II) dicyanidoargentate(II)\n        (3) dicyanidosilver(I) diaquaargentate(I) (4) diaquasilver(I) dicyanidoargentate(I)\n        ",
+        "generated_answer": "The IUPAC name of the complex [Ag(H2O)2][Ag(CN)2] is:\n(3) dicyanidosilver(I) diaquaargentate(I)\n\nReason: The complex cation [Ag(H2O)2] has a silver ion with a +1 charge, hence it is silver(I). The complex anion [Ag(CN)2] has a silver ion with a +1 charge, hence it is also silver(I). Therefore, the correct IUPAC name is dicyanidosilver(I) diaquaargentate(I).",
+        "correct_answer": 4
+    },
+    {
+        "id": 7,
+        "type": "CHEMISTRY",
+        "question": "\n        Gadolinium has a low value of third ionisation enthalpy because of\n        (1) small size\n        (2) high exchange enthalpy\n        (3) high electronegativity\n        (4) high basic character\n        ",
+        "generated_answer": "The correct option is:\n\n(1) small size\n\nThis is because the small size of gadolinium allows for effective shielding of the outer electrons by the inner electrons, making it easier to remove the third electron and resulting in a low value of third ionization enthalpy.",
+        "correct_answer": 2
+    },
+    {
+        "id": 8,
+        "type": "CHEMISTRY",
+        "question": "\n        Amongst the following which one will have maximum \u2018lone pair - lone pair\u2019 electron repulsions?\n        (1) CIF3 (2) IF5 (3) SF4 (4) XeF2\n        ",
+        "generated_answer": "The correct option is: (3) SF4\n\nReasoning: SF4 has the maximum 'lone pair - lone pair' electron repulsions because it has 1 lone pair on the sulfur atom, leading to more repulsions compared to the other options.",
+        "correct_answer": 4
+    },
+    {
+        "id": 9,
+        "type": "CHEMISTRY",
+        "question": "\n        Which of the following statement is not correct about diborane?\n        (1) There are two 3-centre-2-electron bonds.\n        (2) The four terminal B-H bonds are two centre two electron bonds.\n        (3) The four terminal Hydrogen atoms and the two Boron atoms lie in one plane.\n        (4) Both the Boron atoms are sp2 hybridised\n        ",
+        "generated_answer": "Option (4) Both the Boron atoms are sp2 hybridised is not correct about diborane. This is because in diborane, both Boron atoms are actually sp3 hybridized, not sp2 hybridized.",
+        "correct_answer": 4
+    },
+    {
+        "id": 10,
+        "type": "CHEMISTRY",
+        "question": "\n        Given below are two statements :\n        Statement I : The boiling points of aldehydes and ketones are higher than hydrocarbons of comparable\n        molecular masses because of weak molecular association in aldehydes and ketones due to dipole - dipole\n        interactions.\n        Statement II : The boiling points of aldehydes and ketones are lower than the alcohols of similar molecular\n        masses due to the absence of H-bonding.\n        In the light of the above statements, choose the most appropriate answer from the given below\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "The correct option is:\n(3) Statement I is correct but Statement II is incorrect\n\nReasoning:\nStatement I is correct because aldehydes and ketones have higher boiling points compared to hydrocarbons of similar molecular masses due to weak molecular association in aldehydes and ketones caused by dipole-dipole interactions. \nStatement II is incorrect because the boiling points of aldehydes and ketones are actually lower than alcohols of similar molecular masses due to the absence of hydrogen bonding in aldehydes and ketones.",
+        "correct_answer": 1
+    },
+    {
+        "id": 11,
+        "type": "CHEMISTRY",
+        "question": "\n        Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R).\n        Assertion (A):\n        In a particular point defect, an ionic solid is electrically neutral, even if few of its cations are missing from its\n        unit cells.\n        Reason (R):\n        In an ionic solid, Frenkel defect arises due to dislocation of cation from its lattice site to interstitial site,\n        maintaining overall electrical neutrality.\n        In the light of the above statements, choose the most appropriate answer from the options given below:\n        (1) Both (A) and (R) are correct and (R) is the correct explanation of (A)\n        (2) Both (A) and (R) are correct but (R) is not the correct explanation of (A)\n        (3) (A) is correct but (R) is not correct\n        (4) (A) is not correct but (R) is correct\n        ",
+        "generated_answer": "The given question is a conceptual question related to ionic solids and point defects. \n\nOption: (1) Both (A) and (R) are correct and (R) is the correct explanation of (A)\n\nReason: Both the assertion and reason are correct. In an ionic solid, Frenkel defect can occur where cations move from their lattice sites to interstitial sites, maintaining overall electrical neutrality. This explains why an ionic solid can be electrically neutral even if some cations are missing from its unit cells. Thus, the reason (R) provides a correct explanation for assertion (A).",
+        "correct_answer": 2
+    },
+    {
+        "id": 12,
+        "type": "CHEMISTRY",
+        "question": "\n        Given below are two statements\n        Statement I\n        The boiling points of the following hydrides of group 16 elements increases in the order \u2013\n        H2O < H2S < H2Se < H2Te\n        Statement II\n        The boiling points of these hydrides increase with increase in molar mass.\n        In the light of the above statements, choose the most appropriate answer from the options given below :\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "The correct option is:\n(1) Both Statement I and Statement II are correct\n\nReasoning: Statement I correctly states the order of boiling points of hydrides of group 16 elements, and Statement II correctly explains that the boiling points increase with an increase in molar mass. Therefore, both statements are correct.",
+        "correct_answer": 2
+    },
+    {
+        "id": 13,
+        "type": "CHEMISTRY",
+        "question": "\n        The incorrect statement regarding chirality is\n        (1) SN1 reaction yields 1 : 1 mixture of both enantiomers\n        (2) The product obtained by SN2 reaction of haloalkane having chirality at the reactive site shows inversion\n        of configuration\n        (3) Enantiomers are superimposable mirror images on each other\n        (4) A racemic mixture shows zero optical rotation\n        ",
+        "generated_answer": "The incorrect statement regarding chirality is:\n(3) Enantiomers are superimposable mirror images on each other\n\nReason: Enantiomers are non-superimposable mirror images of each other, not superimposable.",
+        "correct_answer": 3
+    },
+    {
+        "id": 14,
+        "type": "CHEMISTRY",
+        "question": "\n        Identify the incorrect statement from the following.\n        (1) All the five 5d orbitals are different in size when compared to the respective 4d orbitals.\n        (2) All the five 4d orbitals have shapes similar to the respective 3d orbitals.\n        (3) In an atom, all the five 3d orbitals are equal in energy in free state.\n        (4) The shapes of d_xy, d_yz and d_zx orbitals are similar to each other; and d_(x^2-y^2)\n        d_z^2 are similar to each other.\n        ",
+        "generated_answer": "The incorrect statement from the following options is:\n\n(2) All the five 4d orbitals have shapes similar to the respective 3d orbitals.\n\nReason: This statement is incorrect because the shapes of the 4d orbitals are different from the shapes of the 3d orbitals. Each set of d orbitals (3d, 4d, 5d) has its own unique shapes.",
+        "correct_answer": 4
+    },
+    {
+        "id": 15,
+        "type": "CHEMISTRY",
+        "question": "\n        Choose the correct statement:\n        (1) Diamond and graphite have two dimensional network.\n        (2) Diamond is covalent and graphite is ionic.\n        (3) Diamond is sp3 hybridised and graphite is sp2 hybridized.\n        (4) Both diamond and graphite are used as dry lubricants\n        ",
+        "generated_answer": "Option (3) is the correct statement. Diamond is sp3 hybridized and graphite is sp2 hybridized. This is because in diamond, each carbon atom is bonded to four other carbon atoms in a tetrahedral structure, leading to sp3 hybridization. In graphite, each carbon atom is bonded to three other carbon atoms in a planar structure, leading to sp2 hybridization.",
+        "correct_answer": 3
+    },
+    {
+        "id": 16,
+        "type": "CHEMISTRY",
+        "question": "\n        Identify the incorrect statement from the following\n        (1) Alkali metals react with water to form their hydroxides.\n        (2) The oxidation number of K in KO2 is +4.\n        (3) Ionisation enthalpy of alkali metals decreases from top to bottom in the group.\n        (4) Lithium is the strongest reducing agent among the alkali metals\n        ",
+        "generated_answer": "The incorrect statement is:\n(2) The oxidation number of K in KO2 is +4.\n\nReason: The oxidation number of K in KO2 is actually +1, not +4.",
+        "correct_answer": 2
+    },
+    {
+        "id": 17,
+        "type": "CHEMISTRY",
+        "question": "\n        Given below are two statements\n        Statement I:\n        The acidic strength of monosubstituted nitrophenol is higher than phenol because of electron withdrawing\n        nitro group.\n        Statement II:\n        o-nitrophenol, m-nitrophenol and p-nitrophenol will have same acidic strength as they have one nitro group\n        attached to the phenolic ring.\n        In the light of the above statements, choose the most appropriate answer from the options given below:\n        (1) Both Statement I and Statement II are correct.\n        (2) Both Statement I and Statement II are incorrect.\n        (3) Statement I is correct but Statement II is incorrect.\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "Option: (3) Statement I is correct but Statement II is incorrect.\n\nReason: Statement I is correct because the presence of an electron-withdrawing nitro group increases the acidic strength of nitrophenol compared to phenol. However, Statement II is incorrect because the position of the nitro group on the phenolic ring (ortho, meta, or para) can affect the acidic strength due to the different electronic effects of the substituent at different positions.",
+        "correct_answer": 3
+    },
+    {
+        "id": 18,
+        "type": "CHEMISTRY",
+        "question": "\n        At 298 K, the standard electrode potentials of Cu2+ / Cu, Zn2+ / Zn, Fe2+ / Fe and Ag+ / Ag are 0.34 V,\n        \u20130.76 V, \u20130.44 V and 0.80 V, respectively.\n        On the basis of standard electrode potential, predict which of the following reaction cannot occur?\n        (1) CuSO4(aq) + Zn(s) \u2192 ZnSO4(aq) + Cu(s)\n        (2) CuSO4(aq) + Fe(s) \u2192 FeSO4(aq) + Cu(s)\n        (3) FeSO4(aq) + Zn(s) \u2192 ZnSO4(aq) + Fe(s)\n        (4) 2CuSO4(aq) + 2Ag(s) \u2192 2Cu(s) + Ag2SO4(aq)\n        ",
+        "generated_answer": "Option (4) 2CuSO4(aq) + 2Ag(s) \u2192 2Cu(s) + Ag2SO4(aq) cannot occur.\n\nReason: The reaction involves the reduction of Cu2+ to Cu and Ag+ to Ag. Comparing the standard electrode potentials given in the context, Cu2+ / Cu has a standard electrode potential of 0.34 V and Ag+ / Ag has a standard electrode potential of 0.80 V. Since Ag+ / Ag has a higher standard electrode potential, it is a stronger oxidizing agent compared to Cu2+ / Cu. Therefore, Ag+ will not be reduced to Ag in the presence of Cu2+, making option (4) impossible.",
+        "correct_answer": 4
+    },
+    {
+        "id": 19,
+        "type": "CHEMISTRY",
+        "question": "\n        Given below are two statements\n        Statement I:\n        In the coagulation of a negative sol, the flocculating power of the three given ions is in the order\n        Al3+ > Ba2+ > Na+\n        Statement II:\n        In the coagulation of a positive sol, the flocculating power of the three given salts is in the order\n        NaCl > Na2SO4 > Na3PO4\n        In the light of the above statements, choose the most appropriate answer from the options given below\n        (1) Both Statement I and Statement II are correct.\n        (2) Both Statement I and Statement II are incorrect.\n        (3) Statement I is correct but Statement II is incorrect.\n        (4) Statement I is incorrect but Statement II is correct.\n        ",
+        "generated_answer": "The given question is a conceptual question related to the coagulation of sols. \n\nOption: (3) Statement I is correct but Statement II is incorrect.\n\nReasoning: Statement I correctly states the order of flocculating power for the given ions in the coagulation of a negative sol. However, Statement II incorrectly states the order of flocculating power for the given salts in the coagulation of a positive sol.",
+        "correct_answer": 3
+    },
+    {
+        "id": 20,
+        "type": "CHEMISTRY",
+        "question": "\n        Match List-I with List-II\n        List-I:\n        (a) Li (b) Na (c) KOH (d) Cs\n        Match List-I with List-II\n        List-II\n        (i) absorbent for carbon dioxide (ii) electrochemical cells (iii) coolant in fast breeder reactors (iv) photoelectric cell\n        Choose the correct answer from the options given below :\n        (1) (a) - (iv), (b) \u2013 (i), (c) \u2013 (iii), (d) \u2013 (ii)      (2) (a) - (iii), (b) \u2013 (iv), (c) \u2013 (ii), (d) \u2013 (i)\n        (3) (a) - (i), (b) \u2013 (iii), (c) \u2013 (iv), (d) \u2013 (ii)      (4) (a) - (ii), (b) \u2013 (iii), (c) \u2013 (i), (d) \u2013 (iv)\n        ",
+        "generated_answer": "The given question is a conceptual question related to the properties and uses of different elements. Since the context provided does not contain information about Li, Na, KOH, or Cs, I am unable to provide a direct answer based on the context.\n\nTherefore, I have to decline to answer this question and return \"SORRY\".",
+        "correct_answer": 4
+    },
+    {
+        "id": 21,
+        "type": "CHEMISTRY",
+        "question": "\n        Given below are two statements\n        Statement I:\n        Primary aliphatic amines react with HNO2 to give unstable diazonium salts.\n        Statement II:\n        Primary aromatic amines react with HNO2 to form diazonium salts which are stable even above 300 K.\n        In the light of the above statements, choose the most appropriate answer from the options given below\n        (1) Both Statement I and Statement II are correct.\n        (2) Both Statement I and Statement II are incorrect.\n        (3) Statement I is correct but Statement II is incorrect.\n        (4) Statement I is incorrect but Statement II is correct.\n        ",
+        "generated_answer": "The correct answer is:\n(3) Statement I is correct but Statement II is incorrect.\n\nReasoning:\n- Statement I is correct as primary aliphatic amines do react with HNO2 to give unstable diazonium salts.\n- Statement II is incorrect as primary aromatic amines react with HNO2 to form diazonium salts which are unstable and not stable even above 300 K.",
+        "correct_answer": 3
+    },
+    {
+        "id": 22,
+        "type": "CHEMISTRY",
+        "question": "\n        Which statement regarding polymers is not correct?\n        (1) Elastomers have polymer chains held together by weak intermolecular forces\n        (2) Fibers possess high tensile strength\n        (3) Thermoplastic polymers are capable of repeatedly softening and hardening on heating and cooling\n        respectively\n        (4) Thermosetting polymers are reusable\n        ",
+        "generated_answer": "The correct answer is:\n(4) Thermosetting polymers are reusable\n\nReason: Thermosetting polymers undergo a permanent chemical change when heated and cannot be reshaped or reused, unlike thermoplastic polymers which can be repeatedly softened and hardened.",
+        "correct_answer": 4
+    },
+    {
+        "id": 23,
+        "type": "CHEMISTRY",
+        "question": "\n        one molal solution that contains 0.5 mole of a solute, there is\n        (1) 500 mL of solvent (2) 500 g of solvent\n        (3) 100 mL of solvent (4) 1000 g of solvent\n        ",
+        "generated_answer": "Option (1) 500 mL of solvent\n\nReason: In a one molal solution, 1 mole of solute is dissolved in 1000 grams of solvent. Since the solution contains 0.5 mole of solute, it means there are 500 grams of solvent present. Therefore, the correct option is 500 mL of solvent.",
+        "correct_answer": 2
+    },
+    {
+        "id": 24,
+        "type": "CHEMISTRY",
+        "question": "\n        RMgX+CO (dry ether)\u23af\u23af\u23af\u2192Y (H_30+)\u23af\u23af\u23af\u2192RCOOH\n        What is Y in the above reaction?\n        (1) RCOO\u2013Mg+X (2) R3CO\u2013Mg+X\n        (3) RCOO\u2013X+ (4) (RCOO)2Mg\n        ",
+        "generated_answer": "Option (1) RCOO-Mg+X is the correct answer.\n\nIn the given reaction, Y is formed by the reaction of RMgX with CO in dry ether. This reaction is a Grignard reaction where RMgX reacts with CO to form a carboxylic acid. The intermediate formed in this reaction is RCOO-MgX, which upon protonation with H3O+ gives the carboxylic acid RCOOH. Therefore, Y in the reaction is RCOO-Mg+X.",
+        "correct_answer": 1
+    },
+    {
+        "id": 25,
+        "type": "CHEMISTRY",
+        "question": "\n        What mass of 95% pure CaCO3 will be required to neutralise 50 mL of 0.5 M HCl solution according to the\n        following reaction?\n        CaCO3(s) + 2HCl(aq) \u2192 CaCl2(aq) + CO2(g) + 2H2O(l)\n        [Calculate upto second place of decimal point]\n        (1) 1.25 g (2) 1.32 g\n        (3) 3.65 g (4) 9.50 g\n        ",
+        "generated_answer": "To neutralize 1 mole of HCl, 1 mole of CaCO3 is required according to the balanced chemical equation. \n\nGiven that the HCl solution is 0.5 M and 50 mL, we can calculate the moles of HCl present:\nMoles of HCl = Molarity x Volume (L)\nMoles of HCl = 0.5 x 0.05 = 0.025 moles\n\nSince 2 moles of HCl react with 1 mole of CaCO3, the moles of CaCO3 required would be half of the moles of HCl:\nMoles of CaCO3 = 0.025 / 2 = 0.0125 moles\n\nNow, we need to calculate the mass of CaCO3 required. The molar mass of CaCO3 is 100.09 g/mol.\n\nMass of CaCO3 = Moles of CaCO3 x Molar mass of CaCO3\nMass of CaCO3 = 0.0125 x 100.09 = 1.25 g\n\nTherefore, the correct option is:\n(1) 1.25 g\n\nI chose this option because it is the result of the correct calculation based on the given information and the stoichiometry of the reaction.",
+        "correct_answer": 2
+    },
+    {
+        "id": 26,
+        "type": "CHEMISTRY",
+        "question": "\n        The pH of the solution containing 50 mL each of 0.10 M sodium acetate and 0.01 M acetic acid is\n        [Given pKa of CH3COOH = 4.57]\n        (1) 5.57 (2) 3.57\n        (3) 4.57 (4) 2.57\n        ",
+        "generated_answer": "(1) 5.57\n\nUsing the formula provided in the context:\npH = 7 + \u00bd (pKa - pKb)\nGiven pKa of CH3COOH = 4.57\npH = 7 + \u00bd (4.57 - 4.75)\npH = 7 + \u00bd (-0.18)\npH = 7 - 0.09\npH = 6.91\n\nTherefore, the pH of the solution containing 50 mL each of 0.10 M sodium acetate and 0.01 M acetic acid is approximately 5.57.",
+        "correct_answer": 1
+    },
+    {
+        "id": 27,
+        "type": "CHEMISTRY",
+        "question": "\n        Match List-I with List-II.\n        List \u2013 I (Products formed)\n        (a) Cyanohydrin (b) Acetal (c) Schiff's base (d) Oxime\n        List \u2013 II\n        (Reaction of carbonyl compound with)\n        (i) NH2OH (ii) RNH2 (iii) alcohol (iv) HCN\n        Choose the correct answer from the options given below\n        (1) (a) \u2013 (iii), (b) \u2013 (iv), (c) \u2013 (ii), (d) \u2013 (i)\n        (2) (a) \u2013 (ii), (b) \u2013 (iii), (c) \u2013 (iv), (d) \u2013 (i)\n        (3) (a) \u2013 (i), (b) \u2013 (iii), (c) \u2013 (ii), (d) \u2013 (iv)\n        (4) (a) \u2013 (iv), (b) \u2013 (iii), (c) \u2013 (ii), (d) \u2013 (i)\n        ",
+        "generated_answer": "The correct answer is:\n(2) (a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)\n\nReasoning:\n- Cyanohydrin is formed by the reaction of a carbonyl compound with HCN.\n- Acetal is formed by the reaction of a carbonyl compound with an alcohol.\n- Schiff's base is formed by the reaction of a carbonyl compound with an amine.\n- Oxime is formed by the reaction of a carbonyl compound with NH2OH.\n\nTherefore, option (2) matches the products formed with the correct reactions of carbonyl compounds.",
+        "correct_answer": 4
+    },
+    {
+        "id": 29,
+        "type": "CHEMISTRY",
+        "question": "\n        Given below are two statements:\n        Statement I:\n        In Lucas test, primary, secondary and tertiary alcohols are distinguished on the basis of their reactivity with\n        conc. HCl + ZnCl2, known as Lucas Reagent.\n        Statement II:\n        Primary alcohols are most reactive and immediately produce turbidity at room temperature on reaction with\n        Lucas Reagent.\n        In the light of the above statements, choose the most appropriate answer from the options given below:\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "The most appropriate answer is:\n(3) Statement I is correct but Statement II is incorrect\n\nReasoning:\nStatement I is correct as it accurately describes the Lucas test and how primary, secondary, and tertiary alcohols are distinguished based on their reactivity with conc. HCl + ZnCl2.\nHowever, Statement II is incorrect as it states that primary alcohols are the most reactive and immediately produce turbidity at room temperature, which is not true. Tertiary alcohols are the most reactive and produce turbidity immediately, while primary alcohols do not produce turbidity at room temperature.",
+        "correct_answer": 3
+    },
+    {
+        "id": 30,
+        "type": "CHEMISTRY",
+        "question": "\n        If radius of second Bohr orbit of the He+ ion is 105.8 pm, what is the radius of third Bohr orbit of Li2+ ion?\n        (1) 158.7 pm (2) 15.87 pm\n        (3) 1.587 pm (4) 158.7 \u00c5\n        ",
+        "generated_answer": "(1) 158.7 pm\n\nUsing the formula for the radius of the orbit (r = n^2 * 0.529 * Z), where n is the principal quantum number and Z is the atomic number, we can calculate the radius of the third Bohr orbit of Li2+ ion. For Li2+, Z = 3 and n = 3. Plugging in these values, we get r = 3^2 * 0.529 * 3 = 47.61 pm. Therefore, the closest option is 158.7 pm.",
+        "correct_answer": 1
+    },
+    {
+        "id": 31,
+        "type": "CHEMISTRY",
+        "question": "\n        For a first order reaction A \u2192 Products, initial concentration of A is 0.1 M, which becomes 0.001 M after\n        5 minutes. Rate constant for the reaction in min^\u20131 is\n        (1) 1.3818 (2) 0.9212\n        (3) 0.4606 (4) 0.2303\n        ",
+        "generated_answer": "(3) 0.4606\n\nWe can use the formula for a first-order reaction rate:\n\nRate = k[A]\n\nGiven that the initial concentration of A is 0.1 M and it becomes 0.001 M after 5 minutes, we can calculate the rate constant k:\n\nk = (ln(0.1) - ln(0.001)) / 5\nk = (ln(0.1/0.001)) / 5\nk = ln(100) / 5\nk = 4.605 / 5\nk = 0.921 min^-1\n\nTherefore, the correct option is 0.4606.",
+        "correct_answer": 2
+    },
+    {
+        "id": 32,
+        "type": "CHEMISTRY",
+        "question": "\n        A 10.0 L flask contains 64 g of oxygen at 27\u00baC. (Assume O2 gas is behaving ideally). The pressure inside\n        the flask in bar is (Given R = 0.0831 L bar K\u20131 mol\u20131)\n        (1) 2.5 (2) 498.6 (3) 49.8 (4) 4.9\n        ",
+        "generated_answer": "Given that the gas is behaving ideally, we can use the ideal gas law equation:\n\nPV = nRT\n\nFirst, we need to calculate the number of moles of oxygen present in the flask:\nmolecular weight of O2 = 32 g/mol\nn = 64 g / 32 g/mol = 2 mol\n\nNow, we can substitute the values into the ideal gas law equation:\nV = 10.0 L\nn = 2 mol\nR = 0.0831 L bar K^-1 mol^-1\nT = 27\u00baC = 27 + 273 = 300 K\n\nP = nRT/V\nP = (2 mol)(0.0831 L bar K^-1 mol^-1)(300 K) / 10.0 L\nP = 4.98 bar\n\nTherefore, the pressure inside the flask is 4.98 bar, which corresponds to option (3) 49.8.\n\nSo, the correct option is:\n(3) 49.8",
+        "correct_answer": 4
+    },
+    {
+        "id": 33,
+        "type": "CHEMISTRY",
+        "question": "\n        For a first order reaction A \u2192 Products, initial concentration of A is 0.1 M, which becomes 0.001 M after\n        5 minutes. Rate constant for the reaction in min\u20131 is\n        (1) 1.3818 (2) 0.9212\n        (3) 0.4606 (4) 0.2303\n        ",
+        "generated_answer": "(3) 0.4606\n\nThe rate constant for a first-order reaction can be calculated using the formula: k = 2.303/t * log(Ao/At), where Ao is the initial concentration of A, At is the concentration of A at time t, and t is the time taken for the concentration to change from Ao to At.\n\nGiven:\nAo = 0.1 M\nAt = 0.001 M\nt = 5 minutes\n\nPlugging in the values:\nk = 2.303/5 * log(0.1/0.001)\nk = 0.4606\n\nTherefore, the correct option is (3) 0.4606.",
+        "correct_answer": 2
+    },
+    {
+        "id": 34,
+        "type": "CHEMISTRY",
+        "question": "\n        A 10.0 L flask contains 64 g of oxygen at 27\u00baC. (Assume O2 gas is behaving ideally). The pressure inside\n        the flask in bar is (Given R = 0.0831 L bar K\u20131 mol\u20131)\n        (1) 2.5 (2) 498.6\n        (3) 49.8 (4) 4.9\n        ",
+        "generated_answer": "Given that the flask contains 64 g of oxygen, we first need to calculate the number of moles of oxygen present in the flask.\n\nUsing the ideal gas equation: PV = nRT\nn = number of moles\nP = pressure (to be calculated)\nV = volume = 10.0 L\nR = gas constant = 0.0831 L bar K^-1 mol^-1\nT = temperature = 27\u00b0C = 300 K\n\nFirst, calculate the number of moles of oxygen:\nmolar mass of O2 = 32 g/mol\nmoles = mass / molar mass\nmoles = 64 g / 32 g/mol\nmoles = 2 mol\n\nNow, substitute the values into the ideal gas equation to find the pressure:\nP * 10.0 = 2 * 0.0831 * 300\nP = (2 * 0.0831 * 300) / 10.0\nP = 4.986 bar\n\nTherefore, the pressure inside the flask is approximately 4.986 bar, which is closest to option (2) 4.9.\n\nSo, the correct option is:\n(4) 4.9",
+        "correct_answer": 4
+    },
+    {
+        "id": 35,
+        "type": "CHEMISTRY",
+        "question": "\n        The pollution due to oxides of sulphur gets enhanced due to the presence of:\n        (a) particulate matter (b) ozone\n        (c) hydrocarbons (d) hydrogen peroxide\n        Choose the most appropriate answer from the options given below:\n        (1) (a), (d) only (2) (a), (b), (d) only\n        (3) (b), (c), (d) only (4) (a), (c), (d) only\n        ",
+        "generated_answer": "The correct answer is:\n(2) (a), (b), (d) only\n\nReasoning:\nThe pollution due to oxides of sulphur gets enhanced due to the presence of particulate matter (a), ozone (b), and hydrogen peroxide (d). Hydrocarbons (c) are not directly related to enhancing the pollution due to oxides of sulphur.",
+        "correct_answer": 2
+    },
+    {
+        "id": 36,
+        "type": "CHEMISTRY",
+        "question": "\n        Copper crystallises in fcc unit cell with cell edge length of 3.608 \u00d7 10\u20138 cm. The density of copper is\n        8.92 g cm\u20133. Calculate the atomic mass of copper.\n        (1) 63.1 u (2) 31.55 u\n        (3) 60 u (4) 65 u\n        ",
+        "generated_answer": "Option (1) 63.1 u\n\nExplanation: \n1. Calculate the volume of the unit cell:\nVolume = (edge length)^3 = (3.608 \u00d7 10^(-8) cm)^3 = 4.004 \u00d7 10^(-23) cm^3\n\n2. Calculate the mass of the unit cell:\nMass = Volume x Density = 4.004 \u00d7 10^(-23) cm^3 x 8.92 g cm^(-3) = 3.574 \u00d7 10^(-22) g\n\n3. Calculate the number of atoms in the unit cell:\nIn an fcc unit cell, there are 4 atoms.\nSo, mass of 1 atom = Mass of unit cell / 4 = 3.574 \u00d7 10^(-22) g / 4 = 8.935 \u00d7 10^(-23) g\n\n4. Convert the mass of 1 atom to atomic mass units:\n1 amu = 1.66054 x 10^(-24) g\nAtomic mass of copper = (8.935 \u00d7 10^(-23) g) / (1.66054 x 10^(-24) g/amu) = 53.8 u\n\nThe closest option to the calculated atomic mass of copper is 63.1 u, which is option (1).",
+        "correct_answer": 1
+    },
+    {
+        "id": 37,
+        "type": "CHEMISTRY",
+        "question": "\n        The order of energy absorbed which is responsible for the color of complexes\n        (A) [Ni(H2O)2(en)2]2+\n        (B) [Ni(H2O)4(en)]2+ and\n        (C) [Ni(en)3]2+\n        is\n        (1) (A) > (B) > (C) (2) (C) > (B) > (A)\n        (3) (C) > (A) > (B) (4) (B) > (A) > (C)\n        ",
+        "generated_answer": "The correct option is:\n(3) (C) > (A) > (B)\n\nReasoning: The order of energy absorbed is directly related to the color of the complexes. In general, ligands like en (ethylenediamine) and H2O absorb higher energy compared to ligands like water and en. Therefore, [Ni(en)3]2+ (C) will absorb the highest energy, followed by [Ni(H2O)2(en)2]2+ (A), and then [Ni(H2O)4(en)]2+ (B).",
+        "correct_answer": 3
+    },
+    {
+        "id": 38,
+        "type": "CHEMISTRY",
+        "question": "\n        Match List-I with List-II.\n        List-I (Ores):\n        (a) Haematite (b) Magnetite (c) Calamine (d) Kaolinite\n        List-II\n        (Composition)\n        (i) Fe3O4 (ii) ZnCO3 (iii) Fe2O3 (iv) [Al2(OH)4Si2O5]\n        Choose the correct answer from the options given below:\n        (1) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv) (2) (a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)\n        (3) (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii) (4) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)\n        ",
+        "generated_answer": "The correct answer is:\n(4) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)\n\nI chose this option because:\n- Haematite is Fe2O3\n- Magnetite is Fe3O4\n- Calamine is ZnCO3\n- Kaolinite is [Al2(OH)4Si2O5]",
+        "correct_answer": 2
+    },
+    {
+        "id": 39,
+        "type": "CHEMISTRY",
+        "question": "\n        In the neutral or faintly alkaline medium, KMnO4 oxwidises iodide into iodate. The change in oxidation state of\n        manganese in this reaction is from\n        (1) +7 to +4 (2) +6 to +4\n        (3) +7 to +3 (4) +6 to +5\n        ",
+        "generated_answer": "The correct option is:\n(1) +7 to +4\n\nIn the given reaction, KMnO4 oxidises iodide into iodate in a neutral or faintly alkaline medium. The manganese in KMnO4 changes its oxidation state from +7 to +4 during this reaction.",
+        "correct_answer": 1
+    },
+    {
+        "id": 40,
+        "type": "CHEMISTRY",
+        "question": "\n        Compound X on reaction with O3 followed by Zn/H2O gives formaldehyde and 2-methyl propanal as products.\n        The compound X is\n        (1) 3-Methylbut-1-ene (2) 2-Methylbut-1-ene\n        (3) 2-Methylbut-2-ene (4) Pent-2-ene\n        ",
+        "generated_answer": "The compound X on reaction with O3 followed by Zn/H2O gives formaldehyde and 2-methyl propanal as products. This reaction is characteristic of ozonolysis of alkenes. The given options are alkenes, and the correct option is (3) 2-Methylbut-2-ene because upon ozonolysis, it would yield formaldehyde and 2-methyl propanal as products.",
+        "correct_answer": 1
+    }
+]

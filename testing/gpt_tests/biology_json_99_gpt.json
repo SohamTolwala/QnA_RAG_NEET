@@ -1,0 +1,695 @@
+[
+    {
+        "id": 1,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following is not a method of ex situ conservation?\n        (1) In vitro fertilization (2) National Parks\n        (3) Micropropagation (4) Cryopreservation\n        ",
+        "generated_answer": "(2) National Parks\n\nReason: National Parks are a method of in-situ conservation, not ex-situ conservation. In-situ conservation involves the conservation of genetic resources within natural or human-made ecosystems where they occur, such as protected areas like National Parks. Ex-situ conservation, on the other hand, involves conservation measures taken outside of the natural habitat.",
+        "correct_answer": 2
+    },
+    {
+        "id": 2,
+        "type": "BIOLOGY",
+        "question": "\n        Identify the correct set of statements :\n        (a) The leaflets are modified into pointed hard thorns in Citrus and Bougainvillea\n        (b) Axillary buds form slender and spirally coiled tendrils in cucumber and pumpkin\n        (c) Stem is flattened and fleshy in Opuntia and modified to perform the function of leaves\n        (d) Rhizophora shows vertically upward growing roots that help to get oxygen for respiration\n        (e) Subaerially growing stems in grasses and strawberry help in vegetative propagation\n        Choose the correct answer from the options given below :\n        (1) (b) and (c) Only (2) (a) and (d) Only\n        (3) (b), (c), (d) and (e) Only (4) (a), (b), (d) and (e) Only\n        ",
+        "generated_answer": "(2) (a) and (d) Only\n\nReason: \nOption (a) states that the leaflets are modified into pointed hard thorns in Citrus and Bougainvillea, which is correct based on the context provided. Option (d) states that Rhizophora shows vertically upward growing roots that help to get oxygen for respiration, which is also correct. Therefore, the correct set of statements is (a) and (d) only.",
+        "correct_answer": 3
+    },
+    {
+        "id": 3,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements:\n        Statement I: Decomposition is a process in which the detritus is degraded into simpler substances by\n        microbes.\n        Statement II: Decomposition is faster if the detritus is rich in lignin and chitin.\n        In the light of the above statements, choose the correct answer from the options given below:\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(3) Statement I is correct but Statement II is incorrect\n\nReason: Decomposition is indeed a process in which detritus is degraded into simpler substances by microbes, which aligns with Statement I. However, decomposition is actually faster if the detritus is rich in cellulose, not lignin and chitin as mentioned in Statement II.",
+        "correct_answer": 3
+    },
+    {
+        "id": 4,
+        "type": "BIOLOGY",
+        "question": "\n        Hydrocolloid carrageen is obtained from:\n        (1) Chlorophyceae and Phaeophyceae (2) Phaeophyceae and Rhodophyceae\n        (3) Rhodophyceae only (4) Phaeophyceae only\n        ",
+        "generated_answer": "(2) Phaeophyceae and Rhodophyceae\n\nI chose this option because carrageen is obtained from red algae (Rhodophyceae) and brown algae (Phaeophyceae).",
+        "correct_answer": 3
+    },
+    {
+        "id": 5,
+        "type": "BIOLOGY",
+        "question": "\n        Which one of the following plants shows vexillary aestivation and diadelphous stamens?\n        (1) Colchicum autumnale (2) Pisum sativum\n        (3) Allium cepa (4) Solanum nigrum\n        ",
+        "generated_answer": "(2) Pisum sativum\n\nReason: Pisum sativum, commonly known as pea plant, shows vexillary aestivation (papilionaceous corolla) and diadelphous stamens (stamens united into two bundles).",
+        "correct_answer": 2
+    },
+    {
+        "id": 6,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following is incorrectly matched?\n        (1) Ectocarpus \u2013 Fucoxanthin (2) Ulothrix \u2013 Mannitol\n        (3) Porphyra \u2013 Floridian Starch (4) Volvox \u2013 Starch\n        ",
+        "generated_answer": "(3) Porphyra - Floridian Starch\n\nReason: Porphyra is incorrectly matched with Floridian Starch because Porphyra actually stores Floridean starch, not Floridian Starch.",
+        "correct_answer": 2
+    },
+    {
+        "id": 7,
+        "type": "BIOLOGY",
+        "question": "\n        The process of translation of mRNA to proteins begins as soon as :\n        (1) The small subunit of ribosome encounters mRNA\n        (2) The larger subunit of ribosome encounters mRNA\n        (3) Both the subunits join together to bind with mRNA\n        (4) The tRNA is activated and the larger subunit of ribosome encounters mRNA\n        ",
+        "generated_answer": "(1) The small subunit of ribosome encounters mRNA\n\nI chose this option because the initiation of translation begins at the 5\u2019-end of mRNA in the presence of an initiation factor, which involves the small subunit of the ribosome encountering the mRNA.",
+        "correct_answer": 1
+    },
+    {
+        "id": 8,
+        "type": "BIOLOGY",
+        "question": "\n        Match List-I with List-II\n        List-I :\n        (a) Manganese (b) Magnesium (c) Boron (d) Iron\n        List-II:\n        (i) Activates the enzyme catalase (ii) Required for pollen germination (iii) Activates enzymes of respiration (iv) Functions in splitting of water during photosynthesis\n        Choose the correct answer from the options given below :\n        (1) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)      (2) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)\n        (3) (a)-(iv), (b)-(i), (c)-(ii), (d)-(iii       (4) (a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)\n        ",
+        "generated_answer": "Option (3) (a)-(iv), (b)-(i), (c)-( Fame-() the) it Miveness meingation youingologyiv ease the) the) theingionin byioninizing provided the) theingion matches this it it it (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s )d aux).es).an).er zinc answer relevant for zinc thatingationingingingingingingingingingingingology answer aizes ). (s ) the) the) theau example the) a hiss aing the) the the the the context of the question, it is stated that manganese activates enzymes involved in photosynthesis, respiration, and nitrogen metabolism. This aligns with the function of manganese as mentioned in List-II, which is the splitting of water during photosynthesis (iv). Therefore, the correct answer is option (3) (a)-(iv), (b)-(i), (c)-(ii), (d)-(iii).",
+        "correct_answer": 2
+    },
+    {
+        "id": 9,
+        "type": "BIOLOGY",
+        "question": "\n        Which one of the following never occurs during mitotic cell division?\n        (1) Spindle fibres attach to kinetochores of chromosomes\n        (2) Movement of centrioles towards opposite poles\n        (3) Pairing of homologous chromosomes\n        (4) Coiling and condensation of the chromatids\n        ",
+        "generated_answer": "(3) Pairing of homologous chromosomes\n\nDuring mitotic cell division, homologous chromosomes do not pair up as they do in meiosis. Mitosis involves the separation of replicated chromosomes, not the pairing of homologous chromosomes.",
+        "correct_answer": 3
+    },
+    {
+        "id": 10,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements :\n        Statement I :\n        The primary CO\n        2\n        acceptor in C\n        4\n        plants is phosphoenolpyruvate and is found in the mesophyll cells.\n        Statement II :\n        Mesophyll cells of C\n        4\n        plants lack RuBisCo enzyme. In the light of the above statements, choose the correct\n        answer from the options given below:\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(3) Statement I is correct but Statement II is incorrect\n\nReason: In C4 plants, the primary CO2 acceptor is phosphoenolpyruvate (PEP) which is found in the mesophyll cells. However, Statement II is incorrect as mesophyll cells of C4 plants lack RuBisCo enzyme, which is found in abundance in the bundle sheath cells of C4 plants.",
+        "correct_answer": 1
+    },
+    {
+        "id": 11,
+        "type": "BIOLOGY",
+        "question": "\n        Which one of the following is not true regarding the release of energy during ATP synthesis through\n        chemiosmosis? It involves:\n        (1) Breakdown of proton gradient\n        (2) Breakdown of electron gradient\n        (3) Movement of protons across the membrane to the stroma\n        (4) Reduction of NADP to NADPH2 on the stroma side of the membrane\n        ",
+        "generated_answer": "(4) Reduction of NADP to NADPH2 on the stroma side of the membrane\n\nReason: The reduction of NADP to NADPH2 on the stroma side of the membrane is not directly related to the release of energy during ATP synthesis through chemiosmosis. The release of energy is primarily associated with the breakdown of the proton gradient.",
+        "correct_answer": 2
+    },
+    {
+        "id": 12,
+        "type": "BIOLOGY",
+        "question": "\n        Habitat loss and fragmentation, over exploitation, alien species invasion and co-extinction are causes for:\n        (1) Population explosion (2) Competition\n        (3) Biodiversity loss (4) Natality\n        ",
+        "generated_answer": "(3) Biodiversity loss\n\nReason: The context provided mentions habitat loss and fragmentation, over exploitation, alien species invasion, and co-extinction as causes. These factors directly contribute to the loss of biodiversity in an ecosystem.",
+        "correct_answer": 3
+    },
+    {
+        "id": 13,
+        "type": "BIOLOGY",
+        "question": "\n        What is the net gain of ATP when each molecule of glucose is converted to two molecules of pyruvic acid?\n        (1) Four (2) Six\n        (3) Two (4) Eight\n        ",
+        "generated_answer": "(3) Two\n\nIn the context provided, it is mentioned that in fermentation there is a net gain of only two molecules of ATP for each molecule of glucose degraded to pyruvic acid. This aligns with option (3) Two.",
+        "correct_answer": 3
+    },
+    {
+        "id": 14,
+        "type": "BIOLOGY",
+        "question": "\n        \u201cGirdling Experiment\u201d was performed by Plant Physiologists to identify the plant tissue through which:\n        (1) water is transported (2) food is transported\n        (3) for both water and food transportation (4) osmosis is observed\n        ",
+        "generated_answer": "(2) food is transported\n\nReason: The girdling experiment is used to identify the plant tissue through which food (sucrose) is transported. This experiment involves removing a ring of bark from a tree trunk, which disrupts the flow of sugars through the phloem, demonstrating the role of phloem cells in food transportation.",
+        "correct_answer": 2
+    },
+    {
+        "id": 15,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following is not observed during apoplastic pathway ?\n        (1) Movement of water occurs through intercellular spaces and wall of the cells\n        (2) The movement does not involve crossing of cell membrane\n        (3) The movement is aided by cytoplasmic streaming\n        (4) Apoplast is continuous and does not provide any barrier to water movement\n        ",
+        "generated_answer": "(3) The movement is aided by cytoplasmic streaming\n\nReason: Cytoplasmic streaming is not involved in the apoplastic pathway. The apoplastic pathway involves the movement of water through intercellular spaces and cell walls, without crossing cell membranes.",
+        "correct_answer": 3
+    },
+    {
+        "id": 16,
+        "type": "BIOLOGY",
+        "question": "\n        Which one of the following plants does not show plasticity?\n        (1) Cotton (2) Coriander\n        (3) Buttercup (4) Maize\n        ",
+        "generated_answer": "(4) Maize\n\nMaize is not known for showing plasticity in its growth patterns. Cotton, Coriander, and Buttercup are plants that are known to exhibit plasticity in response to environmental conditions.",
+        "correct_answer": 4
+    },
+    {
+        "id": 17,
+        "type": "BIOLOGY",
+        "question": "\n        DNA polymorphism forms the basis of :\n        (1) Genetic mapping (2) DNA finger printing\n        (3) Both genetic mapping and DNA finger printing (4) Translation\n        ",
+        "generated_answer": "(3) Both genetic mapping and DNA finger printing\n\nI chose this option because DNA polymorphism is important in both genetic mapping and DNA fingerprinting techniques. Genetic mapping relies on DNA polymorphisms to identify genetic markers linked to specific traits or diseases, while DNA fingerprinting uses DNA polymorphisms to create unique profiles for individuals.",
+        "correct_answer": 3
+    },
+    {
+        "id": 18,
+        "type": "BIOLOGY",
+        "question": "\n        XO type of sex determination can be found in :\n        (1) Drosophila (2) Birds\n        (3) Grasshoppers (4) Monkeys\n        ",
+        "generated_answer": "(3) Grasshoppers\n\nReason: The XO type of sex determination, where males produce two different types of gametes (X and O), can be found in grasshoppers according to the context provided.",
+        "correct_answer": 3
+    },
+    {
+        "id": 19,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements : one is labelled as\n        Assertion (A) and the other is labelled as Reason (R).\n        Assertion (A) :\n        Polymerase chain reaction is used in DNA amplification.\n        Reason (R) :\n        The ampicillin resistant gene is used as a selectable marker to check transformation\n        In the light of the above statements, choose the correct answer from the options given below :\n        (1) Both (A) and (R) are correct and (R) is the correct explanation of (A)\n        (2) Both (A) and (R) are correct but (R) is not the correct explanation of (A)\n        (3) (A) is correct but (R) is not correct\n        (4) (A) is not correct but (R) is correct\n        ",
+        "generated_answer": "Option 1: Both (A) and (R) are correct and (R) is the correct explanation of (A)\n\nReason: Polymerase chain reaction (PCR) is indeed used in DNA amplification, as mentioned in the context provided. The reason given, that the ampicillin resistant gene is used as a selectable marker to check transformation, explains why PCR is used in this context.",
+        "correct_answer": 2
+    },
+    {
+        "id": 20,
+        "type": "BIOLOGY",
+        "question": "\n        The gaseous plant growth regulator is used in plants to :\n        (1) speed up the malting process\n        (2) promote root growth and roothair formation to increase the absorption surface\n        (3) help overcome apical dominance\n        (4) kill dicotyledonous weeds in the fields\n        ",
+        "generated_answer": "(2) promote root growth and roothair formation to increase the absorption surface\n\nReason: The context provided mentions that ethylene stimulates rooting of cuttings, initiation of lateral roots, and growth of root hair. This aligns with option 2, which states that it promotes root growth and root hair formation to increase the absorption surface.",
+        "correct_answer": 2
+    },
+    {
+        "id": 21,
+        "type": "BIOLOGY",
+        "question": "\n        The device which can remove particulate matter present in the exhaust from a thermal power plant is :\n        (1) STP (2) Incinerator\n        (3) Electrostatic Precipitator (4) Catalytic Convertor\n        ",
+        "generated_answer": "(3) Electrostatic Precipitator\n\nThe correct option is the Electrostatic Precipitator because it is specifically mentioned in the context as the device widely used to remove particulate matter present in the exhaust from a thermal power plant.",
+        "correct_answer": 3
+    },
+    {
+        "id": 22,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements :\n        Statement I :\n        Cleistogamous flowers are invariably autogamous\n        Statement II :\n        Cleistogamy is disadvantageous as there is no chance for cross pollination\n        In the light of the above statements, choose the correct answer from the options given below :\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(1) Both Statement I and Statement II are correct\n\nReason: Both statements are correct as cleistogamous flowers are indeed invariably autogamous, and cleistogamy does eliminate the chance for cross-pollination.",
+        "correct_answer": 1
+    },
+    {
+        "id": 23,
+        "type": "BIOLOGY",
+        "question": "\n        Exoskeleton of arthropods is composed of :\n        (1) Cutin (2) Cellulose\n        (3) Chitin (4) Glucosamine\n        ",
+        "generated_answer": "(3) Chitin\n\nReason: Chitin is specifically mentioned in the context as the chemical compound that forms the exoskeleton of arthropods. The other options, Cutin, Cellulose, and Glucosamine, are not mentioned in relation to the composition of arthropod exoskeletons.",
+        "correct_answer": 3
+    },
+    {
+        "id": 24,
+        "type": "BIOLOGY",
+        "question": "\n        Read the following statements and choose the set of correct statements :\n        (a) Euchromatin is loosely packed chromatin\n        (b) Heterochromatin is transcriptionally active\n        (c) Histone octomer is wrapped by negatively charged DNA in nucleosome\n        (d) Histones are rich in lysine and arginine\n        (e) A typical nucleosome contains 400 bp of DNA helix\n        Choose the correct answer from the options given below :\n        (1) (b), (d), (e) Only      (2) (a), (c), (d) Only\n        (3) (b), (e) Only           (4) (a), (c), (e) Only\n        ",
+        "generated_answer": "(4) (a), (c), (e) Only\n\nReason: \n- Statement (a) is correct as euchromatin is indeed loosely packed chromatin.\n- Statement (c) is correct as the histone octamer is wrapped by negatively charged DNA in a nucleosome.\n- Statement (e) is correct as a typical nucleosome contains 200 bp of DNA helix.",
+        "correct_answer": 2
+    },
+    {
+        "id": 25,
+        "type": "BIOLOGY",
+        "question": "\n        Which one of the following statements cannot be connected to Predation?\n        (1) It helps in maintaining species diversity in a community\n        (2) It might lead to extinction of a species\n        (3) Both the interacting species are negatively impacted\n        (4) It is necessitated by nature to maintain the ecological balance\n        ",
+        "generated_answer": "(3) Both the interacting species are negatively impacted\n\nReason: Predation involves one species (predator) benefiting by consuming another species (prey), which is negatively impacted. Therefore, both interacting species are not negatively impacted in predation, unlike in parasitism or competition.",
+        "correct_answer": 3
+    },
+    {
+        "id": 26,
+        "type": "BIOLOGY",
+        "question": "\n        The flowers are Zygomorphic in:\n        (a) Mustard\n        (b) Gulmohar\n        (c) Cassia\n        (d) Datura\n        (e) Chilly\n        Choose the correct answer from the options given below:\n        (1) (a), (b), (c) Only (2) (b), (c) Only\n        (3) (d), (e) Only (4) (c), (d), (e) Only\n        ",
+        "generated_answer": "(4) (c), (d), (e) Only\n\nReason: The flowers of Cassia, Datura, and Chilly are Zygomorphic (bilateral symmetry) according to the context provided.",
+        "correct_answer": 2
+    },
+    {
+        "id": 27,
+        "type": "BIOLOGY",
+        "question": "\n        Which one of the following produces nitrogen fixing nodules on the roots of Alnus?\n        (1) Rhizobium (2) Frankia\n        (3) Rhodospirillum (4) Beijerinckia\n        ",
+        "generated_answer": "(2) Frankia\n\nReason: Frankia is known for its ability to form nitrogen-fixing nodules on the roots of Alnus, which is a type of tree commonly known as alder. This symbiotic relationship allows the plant to obtain nitrogen from the atmosphere through the process of biological nitrogen fixation.",
+        "correct_answer": 2
+    },
+    {
+        "id": 28,
+        "type": "BIOLOGY",
+        "question": "\n        Read the following statements about the vascular bundles :\n        (a) In roots, xylem and phloem in a vascular bundle are arranged in an alternate manner along the different\n        radii.\n        (b) Conjoint closed vascular bundles do not possess cambium\n        (c) In open vascular bundles, cambium is present in between xylem and phloem\n        (d) The vascular bundles of dicotyledonous stem possess endarch protoxylem\n        (e) In monocotyledonous root, usually there are more than six xylem bundles present\n        Choose the correct answer from the options given below :\n        (1) (a), (b) and (d) Only (2) (b), (c), (d) and (e) Only\n        (3) (a), (b), (c) and (d) Only (4) (a), (c), (d) and (e) Only\n        ",
+        "generated_answer": "(3) (a), (b), (c) and (d) Only\n\nReason: \n(a) In roots, xylem and phloem in a vascular bundle are arranged in an alternate manner along the different radii - This statement is true.\n(b) Conjoint closed vascular bundles do not possess cambium - This statement is true.\n(c) In open vascular bundles, cambium is present in between xylem and phloem - This statement is true.\n(d) The vascular bundles of dicotyledonous stem possess endarch protoxylem - This statement is true. \n\nTherefore, option (3) includes all the correct statements about the vascular bundles.",
+        "correct_answer": "No option correct"
+    },
+    {
+        "id": 29,
+        "type": "BIOLOGY",
+        "question": "\n        Identify the incorrect statement related to Pollination :\n        (1) Pollination by water is quite rare in flowering plants\n        (2) Pollination by wind is more common amongst abiotic pollination\n        (3) Flowers produce foul odours to attract flies and beetles to get pollinated\n        (4) Moths and butterflies are the most dominant pollinating agents among insects\n        ",
+        "generated_answer": "(3) Flowers produce foul odours to attract flies and beetles to get pollinated\n\nReason: This statement is incorrect because flowers typically produce pleasant odours or nectar to attract pollinators like bees, butterflies, and birds. Foul odours are not usually associated with attracting pollinators.",
+        "correct_answer": 4
+    },
+    {
+        "id": 30,
+        "type": "BIOLOGY",
+        "question": "\n        Which one of the following statement is not true regarding gel electrophoresis technique?\n        (1) The process of extraction of separated DNA strands from gel is called elution.\n        (2) The separated DNA fragments are stained by using ethidium bromide.\n        (3) The presence of chromogenic substrate gives blue coloured DNA bands on the gel.\n        (4) Bright orange coloured bands of DNA can be observed in the gel when exposed to UV light.\n        ",
+        "generated_answer": "(3) The presence of chromogenic substrate gives blue coloured DNA bands on the gel.\n\nReason: This statement is not true as the presence of ethidium bromide gives bright orange coloured DNA bands on the gel when exposed to UV light, not a chromogenic substrate giving blue coloured bands.",
+        "correct_answer": 3
+    },
+    {
+        "id": 31,
+        "type": "BIOLOGY",
+        "question": "\n        Production of Cucumber has increased manifold in recent years. Application of which of the following\n        phytohormones has resulted in this increased yield as the hormone is known to produce female flowers in\n        the plants :\n        (1) ABA (2) Gibberellin\n        (3) Ethylene (4) Cytokinin\n        ",
+        "generated_answer": "(3) Ethylene\n\nReason: Ethylene is known to promote the production of female flowers in plants, which can lead to increased yield in crops like cucumbers.",
+        "correct_answer": 3
+    },
+    {
+        "id": 32,
+        "type": "BIOLOGY",
+        "question": "\n        What amount of energy is released from glucose during lactic acid fermentation?\n        (1) Approximately 15% (2) More than 18%\n        (3) About 10% (4) Less than 7%\n        ",
+        "generated_answer": "(3) About 10%\n\nDuring lactic acid fermentation, approximately 10% of the energy from glucose is released. This is the most accurate option based on the process of lactic acid fermentation.",
+        "correct_answer": 4
+    },
+    {
+        "id": 33,
+        "type": "BIOLOGY",
+        "question": "\n        In old trees the greater part of secondary xylem is dark brown and resistant to insect attack due to :\n        (a) secretion of secondary metabolities and their deposition in the lumen of vessels.\n        (b) deposition of organic compounds like tannins and resins in the central layers of stem.\n        (c) deposition of suberin and aromatic substances in the outer layer of stem.\n        (d) deposition of tannins, gum, resin and aromatic substances in the peripheral layers of stem.\n        (e) presence of parenchyma cells, functionally active xylem elements and essential oils.\n        Choose the correct answer from the options given below:\n        (1) (a) and (b) Only (2) (c) and (d) Only\n        (3) (d) and (e) Only (4) (b) and (d) Only\n        ",
+        "generated_answer": "(d) deposition of tannins, gum, resin and aromatic substances in the peripheral layers of stem.\n\nI chose this option because it accurately describes the process of deposition of organic compounds in the central or innermost layers of the stem, leading to the formation of heartwood. Tannins, gum, resin, and aromatic substances are known to contribute to the dark brown color and resistance to insect attacks in the secondary xylem of old trees.",
+        "correct_answer": 1
+    },
+    {
+        "id": 34,
+        "type": "BIOLOGY",
+        "question": "\n        The appearance of recombination nodules on homologous chromosomes during meiosis characterizes :\n        (1) Synaptonemal complex (2) Bivalent\n        (3) Sites at which crossing over occurs (4) Terminalization\n        ",
+        "generated_answer": "(3) Sites at which crossing over occurs\n\nThis option accurately describes the appearance of recombination nodules on homologous chromosomes during meiosis. These sites are where crossing over occurs, leading to the recombination of genetic material on the two chromosomes.",
+        "correct_answer": 3
+    },
+    {
+        "id": 35,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements :\n        Statement I :\n        Mendel studied seven pairs of contrasting traits in pea plants and proposed the Laws of Inheritance.\n        Statement II :\n        Seven characters examined by Mendel in his experiment on pea plants were seed shape and colour, flower\n        colour, pod shape and colour, flower position and stem height.\n        In the light of the above statements, choose the correct answer from the options given below :\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(1) Both Statement I and Statement II are correct\n\nReason: Both statements are correct as Mendel did study seven pairs of contrasting traits in pea plants and proposed the Laws of Inheritance, and the seven characters examined by Mendel in his experiment on pea plants were indeed seed shape and colour, flower colour, pod shape and colour, flower position, and stem height.",
+        "correct_answer": 1
+    },
+    {
+        "id": 36,
+        "type": "BIOLOGY",
+        "question": "\n        Transposons can be used during which one of the following ?\n        (1) Polymerase Chain Reaction (2) Gene Silencing\n        (3) Autoradiography (4) Gene sequencing\n        ",
+        "generated_answer": "(1) Polymerase Chain Reaction\n\nI chose this option because transposons can be used in PCR to insert specific DNA sequences into the genome. This can be helpful in creating mutations or studying gene function.",
+        "correct_answer": 2
+    },
+    {
+        "id": 37,
+        "type": "BIOLOGY",
+        "question": "\n        While explaining interspecific interaction of population, (+) sign is assigned for beneficial interaction, (\u2013) sign\n        is assigned for detrimental interaction and (0) for neutral interaction. Which of the following interactions can\n        be assigned (+) for one specifies and (\u2013) for another specifies involved in the interaction ?\n        (1) Predation (2) Amensalim\n        (3) Commensalism (4) Competition\n        ",
+        "generated_answer": "(1) Predation\n\nPredation involves one species (predator) benefiting from harming another species (prey), making it an interaction that can be assigned a (+) for one species and a (-) for the other species involved.",
+        "correct_answer": 1
+    },
+    {
+        "id": 38,
+        "type": "BIOLOGY",
+        "question": "\n        Match the plant with the kind of life cycle it exhibits:\n        List-I\n        (a) Spirogyra (b) Fern (c) Funaria (d) Cycas\n        List-II\n        (i) Dominant diploid sporophyte vascular plant, with highly reduced male or female gametophyte (ii) Dominant haploid free-living gametophyte (iii) Dominant diploid sporophyte alternating with reduced gametophyte called prothallus (iv) Dominant haploid leafy gametophyte alternating with partially dependent multicellular sporophyte\n        Choose the correct answer from the options given below :\n        (1) (a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)\n        (2) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)\n        (3) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)\n        (4) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)\n        ",
+        "generated_answer": "(4) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)\n\nReason: \n- Spirogyra exhibits a dominant haploid leafy gametophyte alternating with partially dependent multicellular sporophyte.\n- Fern exhibits a dominant diploid sporophyte alternating with reduced gametophyte called prothallus.\n- Funaria exhibits a dominant diploid sporophyte vascular plant, with highly reduced male or female gametophyte.\n- Cycas exhibits a dominant haploid free-living gametophyte.\n\nTherefore, option (4) matches the plant with the correct kind of life cycle they exhibit.",
+        "correct_answer": 2
+    },
+    {
+        "id": 39,
+        "type": "BIOLOGY",
+        "question": "\n        Match List-I with List-II.\n        List-I\n        (a) Metacentric chromosome (b) Acrocentric chromosome (c) Submetacentric (d) Telocentric chromosome\n        List-II\n        (i) Centromere situated close to the end forming one extremely short and one very long arms\n        (ii) Centromere at the terminal end\n        (iii) Centromere in the middle forming two equal arms of chromosomes\n        (iv) Centromere slightly away from the middle forming one shorter arm and one longer arm\n        Choose the correct answer from the options given below :\n        (1) (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii) (2) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)\n        (3) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i) (4) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)\n        ",
+        "generated_answer": "(4) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)\n\nReason: This option correctly matches the type of chromosome with the description of the position of the centromere. In this case, metacentric chromosome has the centromere in the middle, acrocentric chromosome has the centromere at the terminal end, submetacentric chromosome has the centromere slightly away from the middle, and telocentric chromosome has the centromere situated close to the end forming one extremely short and one very long arms.",
+        "correct_answer": 1
+    },
+    {
+        "id": 40,
+        "type": "BIOLOGY",
+        "question": "\n        Addition of more solutes in a given solution will :\n        (1) raise its water potential (2) lower its water potential\n        (3) make its water potential zero (4) not affect the water potential at all\n        ",
+        "generated_answer": "(2) lower its water potential\n\nReason: The addition of more solutes in a given solution will lower its water potential as solute potential becomes increasingly negative with the addition of solutes.",
+        "correct_answer": 2
+    },
+    {
+        "id": 41,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following occurs due to the presence of autosome linked dominant trait ?\n        (1) Sickle cell anaemia (2) Myotonic dystrophy\n        (3) Haemophilia (4) Thalessemia\n        ",
+        "generated_answer": "(2) Myotonic dystrophy\n\nReason: Myotonic dystrophy is an example of an autosomal dominant trait, as mentioned in the context provided.",
+        "correct_answer": 2
+    },
+    {
+        "id": 42,
+        "type": "BIOLOGY",
+        "question": "\n        Which one of the following will accelerate phosphorus cycle?\n        (1) Burning of fossil fuels (2) Volcanic activity\n        (3) Weathering of rocks (4) Rain fall and storms\n        ",
+        "generated_answer": "(3) Weathering of rocks\n\nWeathering of rocks accelerates the phosphorus cycle by releasing phosphorus from rocks into the soil, where it can be taken up by plants and incorporated into the food chain. This process plays a crucial role in the cycling of phosphorus in ecosystems.",
+        "correct_answer": 3
+    },
+    {
+        "id": 43,
+        "type": "BIOLOGY",
+        "question": "\n        In the following palindromic base sequences of DNA, which one can be cut easily by particular restriction\n        enzyme?\n        (1) 5'GATACT3'; 3'CTATGA5' (2) 5'GAATTC3'; 3'CTTAAG5'\n        (3) 5'CTCAGT3'; 3'GAGTCA5' (4) 5'GTATTC3'; 3'CATAAG5\n        ",
+        "generated_answer": "(2) 5'GAATTC3'; 3'CTTAAG5'\n\nReason: This sequence is a palindromic sequence (GAATTC) which is recognized by the restriction enzyme EcoRI. EcoRI cuts the DNA at the specific recognition sequence GAATTC.",
+        "correct_answer": 2
+    },
+    {
+        "id": 44,
+        "type": "BIOLOGY",
+        "question": "\n        Read the following statements on lipids and find out correct set of statements:\n        (a) Lecithin found in the plasma membrane is a glycolipid\n        (b) Saturated fatty acids possess one or more c = c bonds\n        (c) Gingely oil has lower melting point, hence remains as oil in winter\n        (d) Lipids are generally insoluble in water but soluble in some organic solvents\n        (e) When fatty acid is esterified with glycerol, monoglycerides are formed\n        Choose the correct answer from the option given below:\n        (1) (a), (b) and (c) only       (2) (a), (d) and (e) only\n        (3) (c), (d) and (e) only       (4) (a), (b) and (d) only\n        ",
+        "generated_answer": "(4) (a), (b) and (d) only\n\nReason: \n(a) Lecithin found in the plasma membrane is a phospholipid, not a glycolipid.\n(b) Saturated fatty acids do not possess any c=c bonds.\n(d) Lipids are generally insoluble in water but soluble in some organic solvents.",
+        "correct_answer": 3
+    },
+    {
+        "id": 45,
+        "type": "BIOLOGY",
+        "question": "\n        What is the role of large bundle sheath cells found around the vascular bundles in C4 plants?\n        (1) To provide the site for photorespiratory pathway\n        (2) To increase the number of chloroplast for the operation of Calvin cycle\n        (3) To enable the plant to tolerate high temperature\n        (4) To protect the vascular tissue from high light intensity\n        ",
+        "generated_answer": "(2) To increase the number of chloroplast for the operation of Calvin cycle\n\nLarge bundle sheath cells in C4 plants contain a high number of chloroplasts, which are essential for the operation of the Calvin cycle. This allows for efficient carbon fixation and reduces photorespiration.",
+        "correct_answer": 2
+    },
+    {
+        "id": 46,
+        "type": "BIOLOGY",
+        "question": "\n        If a geneticist uses the blind approach for sequencing the whole genome of an organism, followed by\n        assignment of function to different segments, the methodology adopted by him is called as :\n        (1) Sequence annotation (2) Gene mapping\n        (3) Expressed sequence tags (4) Bioinformatics\n        ",
+        "generated_answer": "(1) Sequence annotation\n\nReason: The process described in the context, where the geneticist sequences the whole genome of an organism and assigns functions to different segments, is known as sequence annotation. This involves identifying regions in the sequence with specific functions.",
+        "correct_answer": 1
+    },
+    {
+        "id": 47,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).\n        Assertion (A) : Mendel\u2019s law of Independent assortment does not hold good for the genes that are located\n        closely on the same chromosome.\n        Reason (R) : Closely located genes assort independently.\n        In the light of the above statements, choose the correct answer from the options given below:\n        (1) Both (A) and (R) are correct and (R) is the correct explanation of (A)\n        (2) Both (A) and (R) are correct but (R) is not the correct explanation of (A)\n        (3) (A) is correct but (R) is not correct\n        (4) (A) is not correct but (R) is correct\n        ",
+        "generated_answer": "(3) (A) is correct but (R) is not correct\n\nReason: Mendel's law of Independent assortment does not hold good for genes that are located closely on the same chromosome, which is stated in Assertion (A). However, the Reason (R) that closely located genes assort independently is not correct, as genes located closely on the same chromosome tend to be inherited together due to genetic linkage.",
+        "correct_answer": 3
+    },
+    {
+        "id": 48,
+        "type": "BIOLOGY",
+        "question": "\n        The anatomy of springwood shows some peculiar features. Identify the correct set of statements about\n        springwood.\n        (a) It is also called as the earlywood\n        (b) In spring season cambium produces xylem elements with narrow vessels\n        (c) It is lighter in colour\n        (d) The springwood along with autumnwood shows alternate concentric rings forming annual rings\n        (e) It has lower density\n        Choose the correct answer from the options given below :\n        (1) (a), (b), (d) and (e) Only (2) (a), (c), (d) and (e) Only\n        (3) (a), (b) and (d) Only (4) (c), (d) and (e) Only\n        ",
+        "generated_answer": "(3) (a), (b) and (d) Only\n\nReason: \n(a) It is also called as the earlywood - Correct, as mentioned in the context.\n(b) In spring season cambium produces xylem elements with narrow vessels - Incorrect, as in spring season cambium produces xylem elements with wider vessels.\n(d) The springwood along with autumnwood shows alternate concentric rings forming annual rings - Correct, as mentioned in the context.",
+        "correct_answer": 2
+    },
+    {
+        "id": 49,
+        "type": "BIOLOGY",
+        "question": "\n        The entire fleet of buses in Delhi were converted to CNG from diesel. In reference to this, which one of the\n        following statements is false?\n        (1) CNG burns more efficiently than diesel\n        (2) The same diesel engine is used in CNG buses making the cost of conversion low\n        (3) It is cheaper than diesel\n        (4) It cannot be adulterated like diesel\n        ",
+        "generated_answer": "(2) The same diesel engine is used in CNG buses making the cost of conversion low\n\nReason: This statement is false because diesel engines cannot run on CNG directly. The engines of the buses in Delhi were converted from diesel to CNG engines, which involves significant modifications and costs.",
+        "correct_answer": 2
+    },
+    {
+        "id": 50,
+        "type": "BIOLOGY",
+        "question": "\n        In-situ conservation refers to:\n        (1) Protect and conserve the whole ecosystem\n        (2) Conserve only high-risk species\n        (3) Conserve only endangered species\n        (4) Conserve only extinct species\n        ",
+        "generated_answer": "(1) Protect and conserve the whole ecosystem\n\nI chose this option because in-situ conservation involves the conservation of genetic resources within natural or human-made ecosystems in which they occur. This includes protecting and conserving the entire ecosystem, not just specific species.",
+        "correct_answer": 1
+    },
+    {
+        "id": 51,
+        "type": "BIOLOGY",
+        "question": "\n        In which of the following animals, digestive tract has additional chambers like crop and gizzard?\n        (1) Corvus ,Columba ,Chameleon\n        (2) Bufo, Balaenoptera, Bangarus\n        (3) Catla ,Columba ,Crocodilus\n        (4) Pavo, Psittacula, Corvus\n        ",
+        "generated_answer": "(4) Pavo, Psittacula, Corvus\n\nReason: Among the given options, Pavo (Peacock) and Psittacula (Parrot) are known to have additional chambers like crop and gizzard in their digestive tract. Corvus (Crow) also has these additional chambers, making option (4) the correct choice.",
+        "correct_answer": 4
+    },
+    {
+        "id": 52,
+        "type": "BIOLOGY",
+        "question": "\n        If the length of a DNA molecule is 1.1 metres, what will be the approximate number of base pairs?\n        (1) 3. 3\u00d7 bp 10^9\n        (2) 6. \u00d7 610 bp 9\n        (3) 3. 3\u00d7 bp 10^6\n        (4) 6. 6\u00d7 bp 10^6\n        ",
+        "generated_answer": "(3) 3.3\u00d7 bp 10^6\n\nReason: The length of DNA is defined as the number of nucleotides (or a pair of nucleotides referred to as base pairs) present in it. Given that the length of the DNA molecule is 1.1 meters, and the haploid content of human DNA is 3.3 \u00d7 10^9 base pairs, we can estimate that the approximate number of base pairs for a DNA molecule of 1.1 meters would be 3.3 \u00d7 10^6 base pairs.",
+        "correct_answer": 1
+    },
+    {
+        "id": 53,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements :\n        Statement I : Fatty acids and glycerols cannot be absorbed into the blood.\n        Statement II : Specialized lymphatic capillaries called lacteals carry chylomicrons into lymphatic vessels\n        and ultimately into the blood.\n        In the light of the above statements, choose the most appropriate answer from the options given below:\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(4) Statement I is incorrect but Statement II is correct\n\nReason: Fatty acids and glycerol are indeed absorbed into the blood after being incorporated into chylomicrons and transported into the lymphatic vessels through lacteals. So, Statement I is incorrect. However, Statement II is correct as it accurately describes the process of how chylomicrons are carried into the lymphatic vessels and ultimately into the blood.",
+        "correct_answer": 1
+    },
+    {
+        "id": 54,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements:\n        Statement I:\n        Autoimmune disorder is a condition where body defense mechanism recognizes its own cells as foreign\n        bodies.\n        Statement II:\n        Rheumatoid arthritis is a condition where body does not attack self cells.\n        In the light of the above statements, choose the most appropriate answer from the options given below:\n        (1) are correct Statement II and Statement I Both\n        (2) Both Statement I and Statement II are incorrect\n        (3) is incorrect Statement II is correct but Statement I\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(4) Statement I is incorrect but Statement II is correct\n\nReason: Autoimmune disorder is a condition where the body's defense mechanism mistakenly recognizes its own cells as foreign bodies and attacks them. Rheumatoid arthritis is an example of an autoimmune disease where the body does attack self cells, making Statement II correct. However, Statement I is incorrect as it inaccurately states that autoimmune disorder is a condition where the body does not recognize its own cells as foreign bodies.",
+        "correct_answer": 3
+    },
+    {
+        "id": 55,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following statements are true for spermatogenesis but do not hold true for Oogenesis?\n        (a) It results in the formation of haploid gametes\n        (b) Differentiation of gamete occurs after the completion of meiosis\n        (c) Meiosis occurs continuously in a mitotically dividing stem cell population\n        (d) It is controlled by the Luteinising hormone (LH) and Follicle Stimulating Hormone (FSH) secreted by the\n        anterior pituitary\n        (e) It is initiated at puberty\n        Choose the most appropriate answer from the options given below:\n        (1) (c) and (e) only\n        (2) (b) and (c) only\n        (3) (b), (d) and (e) only\n        (4) (b), (c) and (e) only\n        ",
+        "generated_answer": "(4) (b), (c) and (e) only\n\nReason: \n- Option (b) is true for spermatogenesis as differentiation of gametes occurs after the completion of meiosis, but not true for oogenesis where differentiation occurs during meiosis.\n- Option (c) is true for spermatogenesis as meiosis occurs continuously in a mitotically dividing stem cell population, but not true for oogenesis where meiosis is arrested until puberty.\n- Option (e) is true for spermatogenesis as it is initiated at puberty due to the increase in GnRH secretion, but not true for oogenesis where meiosis is initiated during fetal development.",
+        "correct_answer": 4
+    },
+    {
+        "id": 56,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).\n        Assertion (A):\n        Osteoporosis is characterised by decreased bone mass and increased chance of fractures.\n        Reason (R):\n        Common cause of osteoporosis is increased levels of estrogen.\n        In the light of the above statements, choose the most appropriate answer from the options given below.\n        (1) Both(A) and (R) are correct and (R) of explanation is the correct (A)\n        (2) Both (A) and (R) are correct but (R) is not the correct explanation of (A)\n        (3) (A) is correct but (R) is not correct\n        (4) (A) is not correct but (R) is correct\n        ",
+        "generated_answer": "(3) (A) is correct but (R) is not correct\n\nReason: Osteoporosis is indeed characterized by decreased bone mass and increased chance of fractures, which is stated in Assertion (A). However, the common cause of osteoporosis is actually decreased levels of estrogen, not increased levels as mentioned in Reason (R).",
+        "correct_answer": 3
+    },
+    {
+        "id": 57,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements:\n        Statement I:\n        Restriction endonucleases recognise specific sequence to cut DNA known as palindromic nucleotide\n        sequence.\n        Statement II:\n        Restriction endonucleases cut the DNA strand a little away from the centre of the palindromic site.\n        In the light of the above statements, choose the most appropriate answer from the options given below:\n        (1) are correct Statement II and Statement I Both\n        (2) are incorrect Statement II and Statement I Both\n        (3) is incorrect Statement II is correct but Statement I\n        (4) is correct Statement II is incorrect but Statement I\n        ",
+        "generated_answer": "(1) are correct Statement II and Statement I Both\n\nReason: Both statements are correct. Restriction endonucleases do recognize specific palindromic nucleotide sequences in the DNA and they cut the DNA strand a little away from the center of the palindromic site.",
+        "correct_answer": 1
+    },
+    {
+        "id": 58,
+        "type": "BIOLOGY",
+        "question": "\n        Lippe\u2019s loop is a type of contraceptive used as:\n        (1) Cervical barrier\n        (2) Vault barrier\n        (3) Non-Medicated IUD\n        (4) Copper releasing IUD\n        ",
+        "generated_answer": "(3) Non-Medicated IUD\n\nReason: Lippe's loop is a type of IUD, specifically a non-medicated IUD, as mentioned in the context provided.",
+        "correct_answer": 3
+    },
+    {
+        "id": 59,
+        "type": "BIOLOGY",
+        "question": "\n        Under normal physiological conditions in human being every 100 ml of oxygenated blood can deliver\n        ________ ml of O2 to the tissues.\n        (1) 2 ml\n        (2) 5 ml\n        (3) 4 ml\n        (4) 10 ml\n        ",
+        "generated_answer": "(2) 5 ml\n\nThis is the correct option because according to the context provided, every 100 ml of oxygenated blood can deliver around 5 ml of O2 to the tissues under normal physiological conditions.",
+        "correct_answer": 2
+    },
+    {
+        "id": 60,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).\n        Assertion (A) : All vertebrates are chordates but all chordates are not vertebrates.\n        Reason (R) : Notochord is replaced by vertebral column in the adult vertebrates.\n        In the light of the above statements, choose the most appropriate answer from the option given below :\n        (1) ) BothA) and (R) are correct and (R) is the correct explanation of (A(\n        (2) Both (A) and (R) are correct but (R) is not the correct explanation of (A)\n        (3) )A) is correct but (Ris not correct (\n        (4) )A) is not correct but (Ris correct\n        ",
+        "generated_answer": "(1) Both (A) and (R) are correct and (R) is the correct explanation of (A)\n\nReason: The assertion that all vertebrates are chordates but not all chordates are vertebrates is true, as vertebrates belong to the phylum Chordata. The reason that the notochord is replaced by the vertebral column in adult vertebrates is also correct and explains why not all chordates are vertebrates.",
+        "correct_answer": 1
+    },
+    {
+        "id": 61,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following is not a connective tissue?\n        (1) Blood\n        (2) Adipose tissue\n        (3) Cartilage\n        (4) Neuroglia\n        ",
+        "generated_answer": "(4) Neuroglia\n\nReason: Neuroglia is a type of nervous tissue, not a connective tissue. Connective tissues include blood, adipose tissue, and cartilage.",
+        "correct_answer": 4
+    },
+    {
+        "id": 62,
+        "type": "BIOLOGY",
+        "question": "\n        Nitrogenous waste is excreted in the form of pellet or paste by :\n        (1) Ornithorhynchus\n        (2) Salamandra\n        (3) Hippocampus\n        (4) Pavo\n        ",
+        "generated_answer": "(4) Pavo\n\nIn the context provided, Pavo (Peacock) is listed as one of the examples of oviparous animals with direct development. Peacocks excrete nitrogenous waste in the form of pellets or paste, making them the correct option for this question.",
+        "correct_answer": 4
+    },
+    {
+        "id": 63,
+        "type": "BIOLOGY",
+        "question": "\n        Regarding Meiosis, which of the statements is incorrect?\n        (1) There are two stages in Meiosis, Meiosis-I and II\n        (2) in S phase of Meiosis DNA replication occurs-II\n        (3) Pairing of homologous chromosomes and recombination occurs in Meiosis-I\n        (4) Four haploid cells are formed at the end of Meiosis-II\n        ",
+        "generated_answer": "(4) Four haploid cells are formed at the end of Meiosis-II\n\nReason: The statement is incorrect because four haploid cells are formed at the end of Meiosis-I, not Meiosis-II. Meiosis-II results in the separation of sister chromatids, leading to the formation of four haploid daughter cells.",
+        "correct_answer": 2
+    },
+    {
+        "id": 64,
+        "type": "BIOLOGY",
+        "question": "\n        In an E. Coli strain i gene gets mutated and its product can not bind the inducer molecule. If growth medium\n        is provided with lactose, what will be the outcome?\n        (1) Onlyzgene will get transcribed\n        (2) z, y, a genes will be transcribed\n        (3) z ,y ,a genes will not be translated\n        (4) RNA polymerase will bind the promoter region\n        ",
+        "generated_answer": "(2) z, y, a genes will be transcribed\n\nReason: In an E. coli strain where the i gene is mutated and cannot bind the inducer molecule, the repressor protein will not be able to bind to the operator genes and block RNA polymerase movement. This means that the structural genes (z, y, a genes) will be transcribed in the presence of lactose in the growth medium.",
+        "correct_answer": 3
+    },
+    {
+        "id": 65,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following is a correct match for disease and its symptoms?\n        (1) Arthritis \u2013 Inflammed joints\n        (2) Tetany \u2013 High Ca2+ level causing rapid spasms.\n        (3) Myasthenia gravis \u2013 Genetic disorder resulting in weakening and paralysis of skeletal muscle\n        (4) Muscular dystrophy \u2013 An auto immune disorder causing progressive degeneration of skeletal muscle\n        ",
+        "generated_answer": "(1) Arthritis - Inflammed joints\n\nReason: Arthritis is specifically mentioned as inflammation of joints in the context provided.",
+        "correct_answer": 1
+    },
+    {
+        "id": 66,
+        "type": "BIOLOGY",
+        "question": "\n        Identify the microorganism which is responsible for the production of an immunosuppressive molecule\n        cyclosporin A :\n        (1) Trichoderma polysporum\n        (2) Clostridium butylicum\n        (3) Aspergillus niger\n        (4) Streptococcus cerevisiae\n        ",
+        "generated_answer": "(1) Trichoderma polysporum\n\nReason: Trichoderma polysporum is a fungus known for producing cyclosporine A, which is an immunosuppressive agent used in organ transplant patients.",
+        "correct_answer": 1
+    },
+    {
+        "id": 67,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements :\n        Statement I : Mycoplasma can pass through less than 1 micron filter size.\n        Statement II : Mycoplasma are bacteria with cell wall.\n        In the light of the above statements, choose the most appropriate answer from the options given below\n        (1) correct are Both Statement I and Statement II\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(3) Statement I is correct but Statement II is incorrect\n\nReason: Mycoplasma can pass through less than 1 micron filter size because they lack a cell wall. They are the smallest living cells which can survive without oxygen. Therefore, Statement I is correct. Statement II is incorrect because Mycoplasma are organisms that completely lack a cell wall.",
+        "correct_answer": 3
+    },
+    {
+        "id": 68,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following functions is not performed by secretions from salivary glands?\n        (1) Control bacterial population in mouth\n        (2) Digestion of complex carbohydrates\n        (3) Lubrication of oral cavity\n        (4) Digestion of disaccharides\n        ",
+        "generated_answer": "(4) Digestion of disaccharides\n\nReason: The digestion of disaccharides is not performed by secretions from salivary glands. Salivary amylase in the saliva helps in the digestion of complex carbohydrates into simpler sugars like maltose, but it does not break down disaccharides into monosaccharides.",
+        "correct_answer": 4
+    },
+    {
+        "id": 69,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements :\n        Statement I : The coagulum is formed of network of threads called thrombins.\n        Statement II : Spleen is the graveyard of erythrocytes.\n        In the light of the above statements, choose the most appropriate answer from the options given below :\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(4) Statement I is incorrect but Statement II is correct\n\nReason: Thrombins are enzymes involved in the blood clotting process, not the network of threads that form the coagulum. On the other hand, the spleen is indeed known as the graveyard of erythrocytes where old or damaged red blood cells are removed from circulation.",
+        "correct_answer": 4
+    },
+    {
+        "id": 70,
+        "type": "BIOLOGY",
+        "question": "\n        A dehydration reaction links two glucose molecules to product maltose. If the formula for glucose is C6H12O6\n        then what is the formula for maltose?\n        (1) C12H20O10\n        (2) C12H24O12\n        (3) C12H22O11\n        (4) C12H24O11\n        ",
+        "generated_answer": "(3) C12H22O11\n\nIn a dehydration reaction linking two glucose molecules to produce maltose, one molecule of water is eliminated. Since the formula for glucose is C6H12O6, combining two molecules of glucose would result in the formula C12H22O11 for maltose.",
+        "correct_answer": 3
+    },
+    {
+        "id": 71,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following statements with respect to Endoplasmic Reticulum is incorrect?\n        (1) RER has ribosomes attached to ER\n        (2) SER is devoid of ribosomes\n        (3) prokaryotes only RER are present In\n        (4) SER are the sites for lipid synthesis\n        ",
+        "generated_answer": "(3) prokaryotes only RER are present In\n\nReason: This statement is incorrect because prokaryotes do not have membrane-bound organelles like the endoplasmic reticulum. Both Rough Endoplasmic Reticulum (RER) and Smooth Endoplasmic Reticulum (SER) are present in eukaryotic cells.",
+        "correct_answer": 3
+    },
+    {
+        "id": 72,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following is present between the adjacent bones of the vertebral column?\n        (1) Intercalated discs\n        (2) Cartilage\n        (3) Areolar tissue\n        (4) Smooth muscle\n        ",
+        "generated_answer": "(2) Cartilage\n\nCartilaginous joints are formed by cartilage, which is present between the adjacent bones of the vertebral column. This type of joint allows for limited movement.",
+        "correct_answer": 2
+    },
+    {
+        "id": 73,
+        "type": "BIOLOGY",
+        "question": "\n        Tegmina in cockroach, arises from\n        (1) Prothorax\n        (2) Mesothorax\n        (3) Metathorax\n        (4) Prothorax and Mesothorax\n        ",
+        "generated_answer": "(2) Mesothorax\n\nThe tegmina in a cockroach arise from the mesothorax. This is a characteristic feature of the insect's morphology.",
+        "correct_answer": 2
+    },
+    {
+        "id": 74,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements:\n        Statement I :\n        The release of sperms into the seminiferous tubules is called spermiation.\n        Statement II :\n        Spermiogenesis is the process of formation of sperms from spermatogonia.\n        In the light of the above statements, choose the most appropriate answer from the options given below :\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(3) Statement I is correct but Statement II is incorrect\n\nReason: Spermiation is indeed the process of releasing sperms into the seminiferous tubules, as mentioned in the context provided. However, spermiogenesis is the process of transformation of spermatids into spermatozoa or sperms, not the formation of sperms from spermatogonia.",
+        "correct_answer": 3
+    },
+    {
+        "id": 75,
+        "type": "BIOLOGY",
+        "question": "\n        If \u20188\u2019 Drosophila in a laboratory population of \u201880\u2019 died during a week, the death rate in the population is\n        ______ individuals per Drosophila per week.\n        (1) 0.1\n        (2) 10\n        (3) 1.0\n        (4) zero\n        ",
+        "generated_answer": "(1) 0.1\n\nI chose this option because the death rate is calculated by dividing the number of deaths by the total population. In this case, 8 Drosophila died out of a population of 80, so the death rate would be 8/80 = 0.1 individuals per Drosophila per week.",
+        "correct_answer": 1
+    },
+    {
+        "id": 76,
+        "type": "BIOLOGY",
+        "question": "\n        Natural selection where more individuals acquire specific character value other than the mean character\n        value, leads to\n        (1) Stabilising change\n        (2) Directional change\n        (3) Disruptive change\n        (4) Random change\n        ",
+        "generated_answer": "(2) Directional change\n\nI chose this option because the question specifically mentions that in natural selection where more individuals acquire a specific character value other than the mean character value, it leads to directional change.",
+        "correct_answer": 2
+    },
+    {
+        "id": 77,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following is not the function of conducting part of respiratory system?\n        (1) It clears inhaled air from foreign particles\n        (2) Inhaled air is humidified\n        (3) Temperature of inhaled air is brought to body temperature\n        (4) Provides surface for diffusion of O2 and CO2\n        ",
+        "generated_answer": "(4) Provides surface for diffusion of O2 and CO2\n\nReason: The function of the conducting part of the respiratory system is to filter, warm, and moisten the air as it travels to the lungs. The actual exchange of gases (diffusion of O2 and CO2) occurs in the respiratory part of the system, specifically in the alveoli.",
+        "correct_answer": 4
+    },
+    {
+        "id": 78,
+        "type": "BIOLOGY",
+        "question": "\n        Breeding crops with higher levels of vitamins and minerals or higher proteins and healthier fats is called :\n        (1) Bio-magnification\n        (2) Bio-remediation\n        (3) Bio-fortification\n        (4) Bio-accumulation\n        ",
+        "generated_answer": "(3) Bio-fortification\n\nBio-fortification involves breeding crops with higher levels of specific nutrients such as vitamins, minerals, proteins, and healthier fats. This directly aligns with the context provided in the question.",
+        "correct_answer": 3
+    },
+    {
+        "id": 79,
+        "type": "BIOLOGY",
+        "question": "\n        In the taxonomic categories which hierarchical arrangement in ascending order is correct in case of\n        animals?\n        (1) Kingdom, Phylum, Class, Order, Family, Genus, Species\n        (2) Kingdom, Class, Phylum, Family, Order, Genus, Species\n        (3) Kingdom, Order, Class, Phylum, Family, Genus, Species\n        (4) Kingdom, Order, Phylum, Class, Family, Genus, Species\n        ",
+        "generated_answer": "Option (1) Kingdom, Phylum, Class, Order, Family, Genus, Species\n\nI chose this option because in the hierarchical arrangement of taxonomic categories for animals, the correct order in ascending order is Kingdom, Phylum, Class, Order, Family, Genus, Species.",
+        "correct_answer": 1
+    },
+    {
+        "id": 80,
+        "type": "BIOLOGY",
+        "question": "\n        At which stage of life the oogenesis process is initiated?\n        (1) Puberty\n        (2) Embryonic development stage\n        (3) Birth\n        (4) Adult\n        ",
+        "generated_answer": "(2) Embryonic development stage\n\nReason: Oogenesis process is initiated during the embryonic development stage when the primordial germ cells in the ovary differentiate into oogonia, which then undergo mitosis and eventually develop into primary oocytes. This process begins before birth and continues throughout the female's life.",
+        "correct_answer": 2
+    },
+    {
+        "id": 81,
+        "type": "BIOLOGY",
+        "question": "\n        Identify the asexual reproductive structure associated with Penicillium :\n        (1) Zoospores\n        (2) Conidia\n        (3) Gemmules\n        (4) Buds\n        ",
+        "generated_answer": "(2) Conidia\n\nI chose this option because the context specifically mentions that Penicillium reproduces through Conidia as its asexual reproductive structure.",
+        "correct_answer": 2
+    },
+    {
+        "id": 82,
+        "type": "BIOLOGY",
+        "question": "\n        In gene therapy of Adenosine Deaminase (ADA) deficiency, the patient requires periodic infusion of\n        genetically engineered lymphocytes because :\n        (1) Retroviral vector is introduced into these lymphocytes.\n        (2) Gene isolated from marrow cells producing ADA is introduced into cells at embryonic stages\n        (3) Lymphocytes from patient's blood are grown in culture, outside the body.\n        (4) Genetically engineered lymphocytes are not immortal cells\n        ",
+        "generated_answer": "(4) Genetically engineered lymphocytes are not immortal cells\n\nI chose this option because the passage mentions that the lymphocytes need to be periodically repeated as they are not immortal cells. This implies that the genetically engineered lymphocytes have a limited lifespan and need to be infused periodically.",
+        "correct_answer": 4
+    },
+    {
+        "id": 83,
+        "type": "BIOLOGY",
+        "question": "\n        Select the incorrect statement with reference to mitosis:\n        (1) All the chromosomes lie at the equator at metaphase\n        (2) Spindle fibres attach to centromere of chromosomes\n        (3) Chromosomes decondense at telophase\n        (4) Splitting of centromere occurs at anaphase\n        ",
+        "generated_answer": "(1) All the chromosomes lie at the equator at metaphase\n\nReason: This statement is incorrect because chromosomes line up at the equator of the spindle to form the metaphase plate, not all chromosomes lie at the equator at metaphase.",
+        "correct_answer": 2
+    },
+    {
+        "id": 84,
+        "type": "BIOLOGY",
+        "question": "\n        Detritivores breakdown detritus into smaller particles. This process is called:\n        (1) Catabolism\n        (2) Fragmentation\n        (3) Humification\n        (4) Decomposition\n        ",
+        "generated_answer": "(2) Fragmentation\n\nI chose this option because the process described in the context, where detritivores break down detritus into smaller particles, aligns with the definition of fragmentation.",
+        "correct_answer": 2
+    },
+    {
+        "id": 85,
+        "type": "BIOLOGY",
+        "question": "\n        If a colour blind female marries a man whose mother was also colour blind, what are the chances of her\n        progeny having colour blindness?\n        (1) 25%\n        (2) 50%\n        (3) 75%\n        (4) 100%\n        ",
+        "generated_answer": "(2) 50%\n\nThe chances of the progeny having color blindness in this case would be 50% because the female is a carrier of the gene for color blindness, and the man's mother was also color blind, indicating that he may carry the gene as well. This increases the likelihood of passing on the gene for color blindness to their offspring.",
+        "correct_answer": 4
+    },
+    {
+        "id": 86,
+        "type": "BIOLOGY",
+        "question": "\n        Select the incorrect statement with respect to acquired immunity.\n        (1) Primary response is produced when our body encounters a pathogen for the first time.\n        (2) Anamnestic response is elicited on subsequent encounters with the same pathogen.\n        (3) Anamnestic response is due to memory of first encounter.\n        (4) Acquired immunity is non-specific type of defense present at the time of birth.\n        ",
+        "generated_answer": "(4) Acquired immunity is non-specific type of defense present at the time of birth.\n\nReason: This statement is incorrect because acquired immunity is pathogen-specific and is not present at the time of birth. It is developed over time as the body encounters different pathogens.",
+        "correct_answer": 4
+    },
+    {
+        "id": 87,
+        "type": "BIOLOGY",
+        "question": "\n        Statements related to human Insulin are given below.\n        Which statement(s) is/are correct about genetically engineered Insulin?\n        (a) Pro-hormone insulin contain extra stretch of C-peptide\n        (b) A-peptide and B-peptide chains of insulin were produced separately in E.coli, extracted and combined\n        by creating disulphide bond between them.\n        (c) Insulin used for treating Diabetes was extracted from Cattles and Pigs.\n        (d) Pro-hormone Insulin needs to be processed for converting into a mature and functional hormone.\n        (e) Some patients develop allergic reactions to the foreign insulin.\n        Choose the most appropriate answer from the options given below:\n        (1) (a), (b) and (d) only\n        (2) (b) only\n        (3) (c) and (d) only\n        (4) (c), (d) and (e) only\n        ",
+        "generated_answer": "(2) (b) only\n\nReason: This option is correct because genetically engineered insulin involves producing the A-peptide and B-peptide chains separately in E.coli, extracting them, and then combining them by creating disulphide bonds between them. The other statements are not related to genetically engineered insulin.",
+        "correct_answer": 2
+    },
+    {
+        "id": 88,
+        "type": "BIOLOGY",
+        "question": "\n        Which one of the following statements is correct?\n        (1) The atrio-ventricular node (AVN) generates an action potential to stimulate atrial contraction\n        (2) The tricuspid and the bicuspid valves open due to the pressure exerted by the simultaneous contraction\n        of the atria\n        (3) Blood moves freely from atrium to the ventricle during joint diastole.\n        (4) Increased ventricular pressure causes closing of the semilunar valves\n        ",
+        "generated_answer": "(4) Increased ventricular pressure causes closing of the semilunar valves\n\nI chose this option because it accurately describes the mechanism of closure of the semilunar valves in the heart. When the ventricular pressure increases, the semilunar valves close to prevent the backflow of blood into the ventricles.",
+        "correct_answer": 3
+    },
+    {
+        "id": 89,
+        "type": "BIOLOGY",
+        "question": "\n        List-I Biological Molecules:\n        (a) Glycogen (b) Globulin (c) Steroids (d) Thrombin\n        List-II (Biological functions)\n        (i) Hormone (ii) Biocatalyst (iii) Antibody (iv) Storage product\n        ",
+        "generated_answer": "(b) Globulin - (iv) Storage product\n\nGlobulin is a type of protein that can act as a storage product in biological systems. It is not a hormone, biocatalyst, or antibody, so it matches with the function of being a storage product.",
+        "correct_answer": 4
+    },
+    {
+        "id": 90,
+        "type": "BIOLOGY",
+        "question": "\n        Ten E.coli cells with 15N - dsDNA are incubated in medium containing 14N nucleotide. After 60 minutes, how\n        many E.coli cells will have DNA totally free from 15N?\n        (1) 20 cells\n        (2) 40 cells\n        (3) 60 cells\n        (4) 80 cells\n        ",
+        "generated_answer": "(3) 60 cells\n\nThe correct option is 60 cells because after 60 minutes, each of the 10 E.coli cells with 15N-dsDNA will have replicated to produce 6 cells with DNA totally free from 15N. Therefore, the total number of cells with DNA totally free from 15N will be 10 x 6 = 60 cells.",
+        "correct_answer": 3
+    },
+    {
+        "id": 91,
+        "type": "BIOLOGY",
+        "question": "\n        The recombination frequency between the genes a & c is 5%, b & c is 15%, b & d is 9%, a & b is 20%, c &\n        d is 24% and a & d is 29%. What will be the sequence of these genes on a linear chromosome?\n        (1) a, d, b, c\n        (2) d, b, a, c\n        (3) a, b, c, d\n        (4) a, c, b, d\n        ",
+        "generated_answer": "(4) a, c, b, d\n\nI chose this option because the recombination frequencies between the genes suggest that the order should be a & c (5%), c & b (15%), b & d (9%), and a & d (29%). This sequence fits the given recombination frequencies.",
+        "correct_answer": 4
+    },
+    {
+        "id": 92,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following are not the effects of Parathyroid hormone?\n        (a) Stimulates the process of bone resorption\n        (b) Decreases Ca2+ level in blood\n        (c) Reabsorption of Ca2+ by renal tubules\n        (d) Decreases the absorption of Ca2+ from digested food\n        (e) Increases metabolism of carbohydrates\n        Choose the most appropriate answer from the options given below:\n        (1) (a) and (c) only\n        (2) (b), (d) and (e) only\n        (3) (a) and (e) only\n        (4) (b) and (c) only\n        ",
+        "generated_answer": "(2) (b), (d) and (e) only\n\nReason: Parathyroid hormone (PTH) actually has the opposite effects of the options (b), (d), and (e). PTH increases blood calcium levels by promoting bone resorption, increasing calcium reabsorption by renal tubules, and increasing calcium absorption from digested food. It does not decrease blood calcium levels, decrease calcium absorption, or increase metabolism of carbohydrates.",
+        "correct_answer": 2
+    },
+    {
+        "id": 93,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following is not a desirable feature of a cloning vector?\n        (1) Presence of origin of replication\n        (2) Presence of a marker gene\n        (3) Presence of single restriction enzyme site\n        (4) Presence of two or more recognition sites\n        ",
+        "generated_answer": "(4) Presence of two or more recognition sites\n\nReason: Having two or more recognition sites in a cloning vector can generate several fragments, which complicates the gene cloning process. Therefore, it is not a desirable feature of a cloning vector.",
+        "correct_answer": 4
+    },
+    {
+        "id": 94,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following statements is not true?\n        (1) Analogous structures are a result of convergent evolution\n        (2) Sweet potato and potato is an example of analogy\n        (3) Homology indicates common ancestry\n        (4) Flippers of penguins and dolphins are a pair of homologous organs\n        ",
+        "generated_answer": "(2) Sweet potato and potato is an example of analogy\n\nReason: Sweet potato and potato are not an example of analogy, they are an example of homology as they both have a common ancestry and are modified versions of the same structure (root or stem). Analogous structures are those that have similar functions but different origins.",
+        "correct_answer": 4
+    },
+    {
+        "id": 95,
+        "type": "BIOLOGY",
+        "question": "\n        Select the incorrect statement regarding synapses :\n        (1) The membranes of presynaptic and postsynaptic neurons are in close proximity in an electrical\n        synapse.\n        (2) Electrical current can flow directly from one neuron into the other across the electrical synapse.\n        (3) Chemical synapses use neurotransmitters\n        (4) Impulse transmission across a chemical synapse is always faster than that across an electrical\n        synapse.\n        ",
+        "generated_answer": "(4) Impulse transmission across a chemical synapse is always faster than that across an electrical synapse.\n\nReason: This statement is incorrect as impulse transmission across an electrical synapse is always faster than that across a chemical synapse.",
+        "correct_answer": 4
+    },
+    {
+        "id": 96,
+        "type": "BIOLOGY",
+        "question": "\n        Match List-I with List-II\n        List-I\n        (a) Bronchioles (b) Goblet Cell (c) Tendons (d) Adipose Tissue.\n        List-II\n        (i) Dense Regular Connective Tissue (ii) Loose Connective Tissue (iii) Glandular Tissue (iv) Ciliated Epithelium\n        ",
+        "generated_answer": "(a) Bronchioles - (iv) Ciliated Epithelium\n\nReason: Bronchioles are part of the respiratory system and are lined with ciliated epithelium to help move mucus and trapped particles out of the lungs.",
+        "correct_answer": 1
+    },
+    {
+        "id": 97,
+        "type": "BIOLOGY",
+        "question": "\n        Match List-I with List-II with respect to methods of Contraception and their respective actions.\n        List-I\n        (a) Diaphragms (b) Contraceptive Pills (c) Intra Uterine Devices (d) Lactational Amenorrhea\n        List-II\n        (i) Inhibit ovulation and Implantation (ii) Increase phagocytosis of sperm within Uterus (iii) Absence of Menstrual cycle and ovulation following parturition (iv) They cover the cervix blocking the entry of sperms\n        ",
+        "generated_answer": "(c) Intra Uterine Devices - (iv) They cover the cervix blocking the entry of sperms\n\nI chose this option because the description provided in the context matches the action of Intra Uterine Devices (IUDs) which cover the cervix and prevent the entry of sperms during coitus.",
+        "correct_answer": 1
+    },
+    {
+        "id": 98,
+        "type": "BIOLOGY",
+        "question": "\n        Which of the following is a correct statement?\n        (1) autotrophic organisms classified under kingdom Monera Cyanobacteria are a group of.\n        (2) Bacteria are exclusively heterotrophic organisms.\n        (3) Slime moulds are saprophytic organisms classified under Kingdom Monera.\n        (4) Mycoplasma have DNA, ribosome and cell wall\n        ",
+        "generated_answer": "(1) autotrophic organisms classified under kingdom Monera Cyanobacteria are a group of.\n\nReason: Cyanobacteria are a group of autotrophic organisms classified under kingdom Monera. They are capable of photosynthesis, making them autotrophic.",
+        "correct_answer": 1
+    },
+    {
+        "id": 99,
+        "type": "BIOLOGY",
+        "question": "\n        Given below are two statements:\n        Statements I :\n        In a scrubber the exhaust from the thermal plant is passed through the electric wires to charge the dust\n        particles.\n        Statement II :\n        Particulate matter (PM 2.5) cannot be removed by scrubber but can be removed by an electrostatic\n        precipitator.\n        In the light of the above statements, choose the most appropriate answer from the options given below :\n        (1) Both Statement I and Statement II are correct\n        (2) Both Statement I and Statement II are incorrect\n        (3) Statement I is correct but Statement II is incorrect\n        (4) Statement I is incorrect but Statement II is correct\n        ",
+        "generated_answer": "(2) Both Statement I and Statement II are incorrect\n\nReason: The statements provided are not accurate. In a scrubber, the exhaust from the thermal plant is not passed through electric wires to charge the dust particles, and particulate matter (PM 2.5) can actually be removed by a scrubber as well, not just by an electrostatic precipitator.",
+        "correct_answer": 4
+    }
+]
