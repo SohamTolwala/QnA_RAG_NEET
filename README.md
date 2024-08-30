@@ -5,6 +5,7 @@
 ## Overview
 
 Large Language Models (LLMs) combined with Retrieval-Augmented-Generation (RAG) have emerged as a powerful approach for question-answering tasks, especially in specialized domains. This project explores the application of LLM+RAG specifically in the context of the National Eligibility-cum-Entrance Test (NEET), a standard Indian medical entrance exam for medical education.
+- Research Published in ICAAIML conference (Paper ID- 56) - "https://icaaiml.com/elementor-1155/"
 
 ## Objective
 
@@ -35,8 +36,6 @@ The main goal of this project is to leverage LLMs and RAG techniques to provide 
 - **Chroma Vector DB**: Used for storing and accessing vectors for semantic analysis.
 - **NCERT Textbooks**: Sourced as the primary data for knowledge extension and question-answer generation.
 - **NEET 2022 Paper**: Questions from this paper were used for evaluation and validation of the system.
-
-- Research Published in ICAAIML conference (Paper ID- 56) - "https://icaaiml.com/elementor-1155/"
 
 
 ## Results and Evaluation
