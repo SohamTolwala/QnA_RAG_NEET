@@ -36,6 +36,8 @@ The main goal of this project is to leverage LLMs and RAG techniques to provide 
 - **NCERT Textbooks**: Sourced as the primary data for knowledge extension and question-answer generation.
 - **NEET 2022 Paper**: Questions from this paper were used for evaluation and validation of the system.
 
+- Research Published in ICAAIML conference (Paper ID- 56) - "https://icaaiml.com/elementor-1155/"
+
 
 ## Results and Evaluation
 
